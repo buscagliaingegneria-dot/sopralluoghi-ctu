@@ -1,6 +1,7 @@
 // Modello dati e operazioni sull'archivio.
 import * as DB from './db.js';
-import { slug, pad, sha256Hex, stableStringify, uid } from './util.js';
+import { slug, pad, sha256Hex, stableStringify, uid, siglaDa } from './util.js';
+export { siglaDa };
 import { AMB_GROUPS, IMM_GROUPS, ED_GROUPS, ED_GEN_GROUPS, VERIF_GROUPS, CONCL_GROUPS, reqMissing, isFilled } from './schema.js';
 
 export const GENERALE = { codice: 'A00', nome: 'Generale (esterno, accessi, contatori)' };
@@ -16,7 +17,7 @@ export const setCfg = c => DB.setMeta('cfg', c);
 // ---------- Immobili ----------
 export function nuovoImmobile(codice, anag = {}) {
   return {
-    id: codice, codice, anag: { indirizzo: '', comune: '', piano: '', interno: '', foglio: '', particella: '', sub: '', categoria: '', classe: '', consistenza: '', superficie: '', rendita: '', intestatari: '', referente: '', noteAccesso: '', dataPlanimetria: '', ...anag },
+    id: codice, codice, sigla: siglaDa(codice), anag: { indirizzo: '', comune: '', piano: '', interno: '', foglio: '', particella: '', sub: '', categoria: '', classe: '', consistenza: '', superficie: '', rendita: '', intestatari: '', referente: '', noteAccesso: '', dataPlanimetria: '', ...anag },
     f: {}, tipo: 'fabbricato', edificio: null, chiuso: false, lacune: false, nextFoto: 1, nextAmb: 1, creato: Date.now(), updatedAt: Date.now(), rilievoInizio: null, bk: null,
   };
 }

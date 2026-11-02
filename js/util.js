@@ -29,6 +29,12 @@ export function uid() {
 }
 
 export const pad = (n, w = 2) => String(n).padStart(w, '0');
+// Sigla stabile dell'unità: 'U' + numero finale del codice senza zeri iniziali (IMM-07 -> U7). null se il codice non finisce con una cifra.
+// Sta qui (e non in model.js) perché la usa anche la migrazione di db.js, che model.js importa.
+export function siglaDa(codice) {
+  const m = String(codice == null ? '' : codice).match(/(\d+)$/);
+  return m ? 'U' + m[1].replace(/^0+(?=\d)/, '') : null;
+}
 
 export function slug(s, max = 24) {
   return String(s || '')

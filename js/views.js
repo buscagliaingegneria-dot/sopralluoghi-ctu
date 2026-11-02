@@ -222,6 +222,7 @@ export async function vistaImmobile(immId, tab = 'ambienti') {
 async function tabDati(imm, onImm) {
   const docs = await M.listDocs(imm.id);
   const righe = ANAG_FIELDS.filter(([k]) => imm.anag[k]).map(([k, l]) => [h('dt', null, l), h('dd', null, imm.anag[k])]);
+  const rigaSigla = imm.sigla ? [h('dt', null, 'Sigla'), h('dd', null, imm.sigla)] : []; // sola lettura, solo locale
   const inPl = h('input', { type: 'file', accept: 'image/*', multiple: true, hidden: true, onchange: e => aggiungiDocs(imm, 'planimetria', e.target) });
   const inVi = h('input', { type: 'file', accept: 'image/*,application/pdf,.pdf', multiple: true, hidden: true, onchange: e => aggiungiDocs(imm, 'visura', e.target) });
   const elenco = h('ul', { class: 'doclist' }, docs.length ? docs.map(d => h('li', null,
@@ -229,7 +230,7 @@ async function tabDati(imm, onImm) {
     h('button', { class: 'iconbtn', 'aria-label': 'Rimuovi documento', onclick: async () => { if (await confirmDialog({ title: 'Rimuovere il documento?', text: d.nome, ok: 'Rimuovi', danger: true })) { await DB.del('docs', d.id); stato.rerender(); } } }, icon('trash', 18)))) : [h('li', { class: 'hint' }, 'Nessun documento caricato.')]);
   return h('div', null,
     h('section', { class: 'card' }, h('h2', { class: 'sec inl' }, 'Dati catastali'),
-      righe.length ? h('dl', { class: 'dl' }, righe) : h('p', { class: 'hint' }, 'Nessun dato inserito.'),
+      righe.length || rigaSigla.length ? h('dl', { class: 'dl' }, [...rigaSigla, ...righe]) : h('p', { class: 'hint' }, 'Nessun dato inserito.'),
       h('button', { class: 'btn', onclick: async () => { const a = await formAnagrafica('Dati dell\'immobile', imm.anag); if (a) { imm.anag = { ...imm.anag, ...a }; await salva('immobili', imm, { subito: true }); stato.rerender(); } } }, icon('edit', 18), ' Modifica dati')),
     h('section', { class: 'card' }, h('h2', { class: 'sec inl' }, 'Documenti'), elenco,
       h('p', { class: 'hint' }, 'Le planimetrie vanno caricate come immagini ritagliate sull\'unità, con i vani numerati (A01, A02…). Le visure possono essere anche PDF.'),

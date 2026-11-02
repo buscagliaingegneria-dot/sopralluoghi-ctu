@@ -96,6 +96,7 @@ async function scrivi(json, edifici, mappa, onProgress) {
   const cod = [...json.immobili].sort((a, b) => String(a.codice || a.id).localeCompare(String(b.codice || b.id), 'it', { numeric: true }));
   for (let n = 0; n < cod.length; n++) {
     const imm = cod[n];
+    if (!imm.sigla) { const s = M.siglaDa(imm.codice || imm.id); if (s) imm.sigla = s; } // archivi esportati prima della v3
     onProgress(n + 1, cod.length, imm.codice || imm.id);
     const ambs = json.ambienti.filter(a => a.imm === imm.id);
     const docs = json.documenti.filter(x => x.imm === imm.id && mappa.docs.has(x.id));
