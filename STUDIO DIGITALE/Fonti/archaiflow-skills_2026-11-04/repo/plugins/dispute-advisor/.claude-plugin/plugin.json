@@ -1,0 +1,11 @@
+{
+  "name": "dispute-advisor",
+  "version": "1.0.0-c640d8bbfc61",
+  "description": "Find the next required step and notice deadline in a dispute",
+  "homepage": "https://archaiflow.com/templates/skills/dispute-advisor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

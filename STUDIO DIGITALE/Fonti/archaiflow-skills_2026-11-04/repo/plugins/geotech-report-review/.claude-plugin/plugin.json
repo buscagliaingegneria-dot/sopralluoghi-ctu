@@ -1,0 +1,11 @@
+{
+  "name": "geotech-report-review",
+  "version": "1.0.0-d5a5245b5ae9",
+  "description": "Read a soils report for what it commits you to",
+  "homepage": "https://archaiflow.com/templates/skills/geotech-report-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

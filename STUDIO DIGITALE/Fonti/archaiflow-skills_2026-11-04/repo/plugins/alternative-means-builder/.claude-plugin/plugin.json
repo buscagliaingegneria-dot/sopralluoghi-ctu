@@ -1,0 +1,11 @@
+{
+  "name": "alternative-means-builder",
+  "version": "1.0.0-d491c8bb41c2",
+  "description": "Make the case that an alternative meets the intent of a rule you cannot meet",
+  "homepage": "https://archaiflow.com/templates/skills/alternative-means-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

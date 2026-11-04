@@ -1,0 +1,11 @@
+{
+  "name": "project-tracker",
+  "version": "1.0.0-22be9bab6046",
+  "description": "Keep issues, decisions, risks, and action items in one dated log",
+  "homepage": "https://archaiflow.com/templates/skills/project-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

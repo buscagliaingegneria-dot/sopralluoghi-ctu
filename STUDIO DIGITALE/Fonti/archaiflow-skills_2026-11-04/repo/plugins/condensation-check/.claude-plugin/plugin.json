@@ -1,0 +1,11 @@
+{
+  "name": "condensation-check",
+  "version": "1.0.0-228d3b45f01c",
+  "description": "Trace the temperature gradient through an assembly and find the dew point",
+  "homepage": "https://archaiflow.com/templates/skills/condensation-check",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

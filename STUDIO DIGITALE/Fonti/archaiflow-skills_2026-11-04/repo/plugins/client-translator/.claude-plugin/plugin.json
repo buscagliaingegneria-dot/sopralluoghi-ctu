@@ -1,0 +1,11 @@
+{
+  "name": "client-translator",
+  "version": "1.0.0-2e54152d5c8f",
+  "description": "Turn technical language into client-ready wording, and back",
+  "homepage": "https://archaiflow.com/templates/skills/client-translator",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "explain-drawing",
+  "version": "1.0.0-37440badc222",
+  "description": "Explain a detail, callout, or section in plain English",
+  "homepage": "https://archaiflow.com/templates/commands/explain-drawing",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

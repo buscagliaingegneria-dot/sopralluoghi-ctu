@@ -1,0 +1,11 @@
+{
+  "name": "draft-substantial-completion",
+  "version": "1.0.0-cc5cafc3022d",
+  "description": "Draft the certificate, and check whether the date it claims is real",
+  "homepage": "https://archaiflow.com/templates/commands/draft-substantial-completion",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

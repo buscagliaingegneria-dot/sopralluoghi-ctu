@@ -1,0 +1,11 @@
+{
+  "name": "draft-proposal",
+  "version": "1.0.0-fb7343d2d1f4",
+  "description": "Draft a fee proposal that says what is not included",
+  "homepage": "https://archaiflow.com/templates/commands/draft-proposal",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

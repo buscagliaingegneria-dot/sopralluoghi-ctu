@@ -1,0 +1,1 @@
+Clone shallow di https://github.com/DavidCho1999/archaiflow-skills, commit d291a94 (2026-10-26), scaricato 2026-11-04. La cartella .git e stata rimossa dal progetto per evitare un repository annidato.

@@ -1,0 +1,11 @@
+{
+  "name": "variance-request-builder",
+  "version": "1.0.0-9c7842275ded",
+  "description": "Build the case for a variance against the findings the board has to make",
+  "homepage": "https://archaiflow.com/templates/skills/variance-request-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

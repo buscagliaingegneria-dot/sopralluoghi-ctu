@@ -1,0 +1,11 @@
+{
+  "name": "option-compare",
+  "version": "1.0.0-8a894e3e1b0d",
+  "description": "Build a side-by-side comparison of design options for a decision",
+  "homepage": "https://archaiflow.com/templates/skills/option-compare",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

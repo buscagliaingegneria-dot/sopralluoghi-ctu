@@ -1,0 +1,11 @@
+{
+  "name": "drawing-reader",
+  "version": "1.0.0-26978230d4c8",
+  "description": "Read and interpret an architectural drawing PDF",
+  "homepage": "https://archaiflow.com/templates/skills/drawing-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

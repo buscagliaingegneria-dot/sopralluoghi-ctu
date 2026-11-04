@@ -1,0 +1,11 @@
+{
+  "name": "design-entry",
+  "version": "1.0.0-3b18606bb433",
+  "description": "Work the entry as a sequence from the street to the second door",
+  "homepage": "https://archaiflow.com/templates/skills/design-entry",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

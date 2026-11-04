@@ -1,0 +1,11 @@
+{
+  "name": "envelope-performance",
+  "version": "1.0.0-cdacfa908b4c",
+  "description": "Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for North American architecture practice.",
+  "homepage": "https://archaiflow.com/templates/envelope-performance",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

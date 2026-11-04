@@ -1,0 +1,11 @@
+{
+  "name": "senior-traffic-engineer",
+  "version": "1.0.0-2346da40c7a4",
+  "description": "A traffic engineer on access, trips, and what the study will conclude",
+  "homepage": "https://archaiflow.com/templates/agents/senior-traffic-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

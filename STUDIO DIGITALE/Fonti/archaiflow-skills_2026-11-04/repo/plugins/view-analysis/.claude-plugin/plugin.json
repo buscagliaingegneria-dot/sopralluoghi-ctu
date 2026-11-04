@@ -1,0 +1,11 @@
+{
+  "name": "view-analysis",
+  "version": "1.0.0-11bb6547262b",
+  "description": "Work out what each room sees, and what protects it",
+  "homepage": "https://archaiflow.com/templates/skills/view-analysis",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

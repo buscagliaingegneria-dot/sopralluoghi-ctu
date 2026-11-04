@@ -1,0 +1,11 @@
+{
+  "name": "plan-check-response-builder",
+  "version": "1.0.0-b6f83398a77c",
+  "description": "Turn a reviewer's comments into a matrix that answers each one on the record",
+  "homepage": "https://archaiflow.com/templates/skills/plan-check-response-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

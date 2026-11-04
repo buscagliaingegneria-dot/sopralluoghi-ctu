@@ -1,0 +1,11 @@
+{
+  "name": "value-engineering-advisor",
+  "version": "1.0.0-0ac3bd7985d0",
+  "description": "Sort a cost-cutting list into accept, alternate, and block",
+  "homepage": "https://archaiflow.com/templates/skills/value-engineering-advisor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "senior-mep-engineer",
+  "version": "1.0.0-0b8cf5c908f6",
+  "description": "A senior MEP engineer's gut-check on drawings and schedules",
+  "homepage": "https://archaiflow.com/templates/agents/senior-mep-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

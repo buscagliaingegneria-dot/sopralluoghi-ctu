@@ -1,0 +1,11 @@
+{
+  "name": "design-wall-assembly",
+  "version": "1.0.0-18aa5e5f4ad2",
+  "description": "Build up an exterior wall layer by layer and place its four control layers",
+  "homepage": "https://archaiflow.com/templates/skills/design-wall-assembly",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

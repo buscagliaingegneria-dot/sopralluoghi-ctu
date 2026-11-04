@@ -1,0 +1,11 @@
+{
+  "name": "draft-callout",
+  "version": "1.0.0-14f8dbff14d7",
+  "description": "Write the text inside a drawing callout",
+  "homepage": "https://archaiflow.com/templates/commands/draft-callout",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

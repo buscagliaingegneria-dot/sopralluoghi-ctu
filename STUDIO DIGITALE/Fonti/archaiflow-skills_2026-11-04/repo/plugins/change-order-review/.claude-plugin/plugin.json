@@ -1,0 +1,11 @@
+{
+  "name": "change-order-review",
+  "version": "1.0.0-8f9dafe60b4c",
+  "description": "Work through a change's scope, cost, and time before it is signed",
+  "homepage": "https://archaiflow.com/templates/skills/change-order-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

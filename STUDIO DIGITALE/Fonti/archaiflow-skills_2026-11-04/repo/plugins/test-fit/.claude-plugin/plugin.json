@@ -1,0 +1,11 @@
+{
+  "name": "test-fit",
+  "version": "1.0.0-fd4c8117651f",
+  "description": "Run the arithmetic on what fits a site under your limits",
+  "homepage": "https://archaiflow.com/templates/skills/test-fit",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lookup-flood-zone",
+  "version": "1.0.0-c07db247d518",
+  "description": "Find a parcel's flood zone and base flood elevation, with its source",
+  "homepage": "https://archaiflow.com/templates/commands/lookup-flood-zone",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-roof-drainage",
+  "version": "1.0.0-b89033b61daf",
+  "description": "Get water off the roof, and say where it goes when a drain blocks",
+  "homepage": "https://archaiflow.com/templates/skills/design-roof-drainage",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

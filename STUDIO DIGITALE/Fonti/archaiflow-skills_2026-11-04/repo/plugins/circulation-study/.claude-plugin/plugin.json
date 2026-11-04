@@ -1,0 +1,11 @@
+{
+  "name": "circulation-study",
+  "version": "1.0.0-b16c07db8066",
+  "description": "Trace each journey through the plan and find where two that should not meet do",
+  "homepage": "https://archaiflow.com/templates/skills/circulation-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

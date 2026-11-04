@@ -1,0 +1,11 @@
+{
+  "name": "senior-structural-engineer",
+  "version": "1.0.0-cea354655ca3",
+  "description": "A senior structural engineer's gut-check on load path and lateral",
+  "homepage": "https://archaiflow.com/templates/agents/senior-structural-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

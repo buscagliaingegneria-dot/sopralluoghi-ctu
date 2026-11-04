@@ -1,0 +1,6 @@
+# Equipment schedule template — CSI Division 11 (Equipment) / Division 14 (Conveying Equipment).
+# Columns match STANDARD_COLUMNS["equipment"] in scripts/normalize_schedule.py + META_COLUMNS.
+# Imperial units preserved verbatim from the source schedule (do not convert ft/in/lb/Btu/cfm/HP/V/A to SI).
+# ConfidenceFlag = "low" when the source row was hand-flagged as a low-confidence vision read; blank otherwise.
+Tag,Description,Manufacturer,Model,Power,Remarks,SourceSheet,SourcePage,ConfidenceFlag
+KE-101,"Convection oven, full-size, single deck",Sample Mfr,SM-CV-30,"208V 1ph 60Hz 5.4 kW","30"" x 30"" x 60""; NSF; verify clearances per mfr",A-801,142,

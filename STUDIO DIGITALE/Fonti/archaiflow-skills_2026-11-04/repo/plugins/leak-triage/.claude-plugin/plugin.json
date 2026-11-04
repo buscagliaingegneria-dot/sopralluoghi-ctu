@@ -1,0 +1,11 @@
+{
+  "name": "leak-triage",
+  "version": "1.0.0-cbd76185213f",
+  "description": "Find out which water this is before anyone opens anything up",
+  "homepage": "https://archaiflow.com/templates/skills/leak-triage",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

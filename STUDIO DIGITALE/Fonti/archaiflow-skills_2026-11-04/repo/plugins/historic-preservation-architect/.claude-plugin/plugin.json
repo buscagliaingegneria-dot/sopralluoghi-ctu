@@ -1,0 +1,11 @@
+{
+  "name": "historic-preservation-architect",
+  "version": "1.0.0-4c7fd3e058ba",
+  "description": "A preservation architect's read on work to a historic building",
+  "homepage": "https://archaiflow.com/templates/agents/historic-preservation-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

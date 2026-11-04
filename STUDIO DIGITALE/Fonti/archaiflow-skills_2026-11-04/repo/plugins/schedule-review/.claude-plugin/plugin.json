@@ -1,0 +1,11 @@
+{
+  "name": "schedule-review",
+  "version": "1.0.0-6926c5e148a3",
+  "description": "Read a contractor's schedule for what it assumes about you",
+  "homepage": "https://archaiflow.com/templates/skills/schedule-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

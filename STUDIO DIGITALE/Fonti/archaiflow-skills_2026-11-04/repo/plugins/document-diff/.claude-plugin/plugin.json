@@ -1,0 +1,11 @@
+{
+  "name": "document-diff",
+  "version": "1.0.0-75d9c41862be",
+  "description": "Compare two versions of a document and find what nobody mentioned",
+  "homepage": "https://archaiflow.com/templates/skills/document-diff",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

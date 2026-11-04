@@ -1,0 +1,11 @@
+{
+  "name": "explain-zoning",
+  "version": "1.0.0-207b62ac822c",
+  "description": "Put a zoning clause in plain English for your site",
+  "homepage": "https://archaiflow.com/templates/commands/explain-zoning",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

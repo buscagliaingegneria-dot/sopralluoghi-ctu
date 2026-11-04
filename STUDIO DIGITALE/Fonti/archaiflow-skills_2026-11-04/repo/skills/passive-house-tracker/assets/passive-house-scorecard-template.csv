@@ -1,0 +1,27 @@
+# Passive House scorecard template — passive-house-tracker
+# Cert path: choose ONE of {phi_classic, phi_plus, phi_premium, phius_2021}.
+# PHI rows: targets are FIXED criteria from PHI Building Criteria 2016 (see references/phi_classic_criteria.md).
+#          Quote target verbatim from references; record Source as "PHI Building Criteria 2016 §1.2 Classic" (or Plus/Premium).
+# PHIUS rows: targets are PROJECT-SPECIFIC and MUST be populated from the PHIUS Source Zero portal output for the
+#            specific project location, geometry, occupancy, and use type. Do NOT paste from any external metro→target
+#            table — no such table is bundled (see references/phius_2021_targets.md). Record Source as
+#            "PHIUS Source Zero portal output dated YYYY-MM-DD" with the exported file path/screenshot.
+# Shared rows (air leakage, overheating frequency): blank target column; PHI uses ACH50, PHIUS uses CFM50/sf envelope.
+# For your chosen cert path, blank out (or delete) rows that don't apply. Mark non-applicable metrics as N/A in Status.
+# Source column is REQUIRED for any populated Target — never leave Source blank when a Target value is filled.
+Section,Metric,Direction,Target,Units,Actual,Status,Source,ConfidenceFlag,Notes
+PHI,Annual heating demand,lower is better,,kBtu/sf·yr,,,,,
+PHI,Annual cooling+dehum demand,lower is better,,kBtu/sf·yr,,,,,
+PHI,Heating load,lower is better,,Btu/h·ft²,,,,,
+PHI,Cooling load,lower is better,,Btu/h·ft²,,,,,
+PHI,Source primary energy demand,lower is better,,kBtu/sf·yr,,,,,
+PHI,PER demand (Primary Energy Renewable),lower is better,,kBtu/sf·yr,,,,,
+PHI,Renewable energy generation,higher is better,,kBtu/sf·yr,,,,,
+PHIUS,Annual heating demand,lower is better,,kBtu/sf·yr (ICFA),,,,,
+PHIUS,Annual cooling+dehum demand,lower is better,,kBtu/sf·yr (ICFA),,,,,
+PHIUS,Source energy,lower is better,,kBtu/person·yr,,,,,
+PHIUS,Peak heating load,lower is better,,Btu/h·ft² (ICFA),,,,,
+PHIUS,Peak cooling load,lower is better,,Btu/h·ft² (ICFA),,,,,
+Shared,Air leakage (PHI ACH50),lower is better,,ACH50,,,,,
+Shared,Air leakage (PHIUS envelope-normalized),lower is better,,CFM50/sf,,,,,
+Shared,Frequency of overheating,lower is better,,% hours,,,,,

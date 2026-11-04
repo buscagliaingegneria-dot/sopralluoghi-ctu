@@ -1,0 +1,11 @@
+{
+  "name": "design-column",
+  "version": "1.0.0-4894911bf0b3",
+  "description": "Check an axially loaded column with the values your standard gives",
+  "homepage": "https://archaiflow.com/templates/skills/design-column",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

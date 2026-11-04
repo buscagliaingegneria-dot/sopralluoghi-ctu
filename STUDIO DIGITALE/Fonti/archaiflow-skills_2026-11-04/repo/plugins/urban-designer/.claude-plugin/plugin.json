@@ -1,0 +1,11 @@
+{
+  "name": "urban-designer",
+  "version": "1.0.0-00b176015113",
+  "description": "An urban designer's read on a master plan or public realm",
+  "homepage": "https://archaiflow.com/templates/agents/urban-designer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

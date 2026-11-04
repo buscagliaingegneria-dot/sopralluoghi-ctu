@@ -1,0 +1,11 @@
+{
+  "name": "fee-estimator",
+  "version": "1.0.0-904f247f0a3d",
+  "description": "Estimate a design fee four ways and split it by phase",
+  "homepage": "https://archaiflow.com/templates/skills/fee-estimator",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

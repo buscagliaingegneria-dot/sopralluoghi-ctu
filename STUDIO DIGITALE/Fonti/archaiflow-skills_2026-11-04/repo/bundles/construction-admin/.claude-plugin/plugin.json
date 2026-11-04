@@ -1,0 +1,11 @@
+{
+  "name": "construction-admin",
+  "version": "1.0.0-2de30f4c6bfa",
+  "description": "Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for North American architecture practice.",
+  "homepage": "https://archaiflow.com/templates/construction-admin",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

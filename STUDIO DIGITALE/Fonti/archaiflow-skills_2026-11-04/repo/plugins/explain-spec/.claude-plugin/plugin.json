@@ -1,0 +1,11 @@
+{
+  "name": "explain-spec",
+  "version": "1.0.0-da2501c9c50f",
+  "description": "Explain a specification section in plain English",
+  "homepage": "https://archaiflow.com/templates/commands/explain-spec",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

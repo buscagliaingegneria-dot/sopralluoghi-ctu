@@ -1,0 +1,11 @@
+{
+  "name": "test-stair",
+  "version": "1.0.0-644a370a14f6",
+  "description": "Check stair geometry when you already have the code text",
+  "homepage": "https://archaiflow.com/templates/commands/test-stair",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

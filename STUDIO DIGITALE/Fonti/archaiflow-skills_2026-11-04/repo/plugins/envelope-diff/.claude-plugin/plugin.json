@@ -1,0 +1,11 @@
+{
+  "name": "envelope-diff",
+  "version": "1.0.0-095d3ab0be87",
+  "description": "Compare two versions of an assembly or a detail and price the change",
+  "homepage": "https://archaiflow.com/templates/skills/envelope-diff",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-health-audit",
+  "version": "1.0.0-69650d4610a1",
+  "description": "Audit a BIM model for the habits that make it slow, wrong, or unshareable",
+  "homepage": "https://archaiflow.com/templates/skills/model-health-audit",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

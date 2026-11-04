@@ -1,0 +1,11 @@
+{
+  "name": "nyc-zoning-lookup",
+  "version": "1.0.0-b45c4eee4e9d",
+  "description": "Answer NYC zoning questions with citations",
+  "homepage": "https://archaiflow.com/templates/skills/nyc-zoning-lookup",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

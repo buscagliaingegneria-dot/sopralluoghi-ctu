@@ -1,0 +1,11 @@
+{
+  "name": "post-occupancy-evaluation",
+  "version": "1.0.0-e31b6794e145",
+  "description": "Find out how the building is actually used, and tell someone",
+  "homepage": "https://archaiflow.com/templates/skills/post-occupancy-evaluation",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

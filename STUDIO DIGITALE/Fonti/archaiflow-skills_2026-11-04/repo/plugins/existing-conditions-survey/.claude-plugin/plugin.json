@@ -1,0 +1,11 @@
+{
+  "name": "existing-conditions-survey",
+  "version": "1.0.0-64ed7ad74ecb",
+  "description": "Record what is actually there, and mark what you did not verify",
+  "homepage": "https://archaiflow.com/templates/skills/existing-conditions-survey",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

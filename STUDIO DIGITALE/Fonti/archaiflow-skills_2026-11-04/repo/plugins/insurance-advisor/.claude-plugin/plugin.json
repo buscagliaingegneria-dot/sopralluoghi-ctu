@@ -1,0 +1,11 @@
+{
+  "name": "insurance-advisor",
+  "version": "1.0.0-77065703442f",
+  "description": "Recommend policy types, limits, and a wrap-up structure",
+  "homepage": "https://archaiflow.com/templates/skills/insurance-advisor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

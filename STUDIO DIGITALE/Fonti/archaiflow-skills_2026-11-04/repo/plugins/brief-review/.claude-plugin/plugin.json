@@ -1,0 +1,11 @@
+{
+  "name": "brief-review",
+  "version": "1.0.0-25d270501755",
+  "description": "Interrogate a brief for gaps, contradictions, and unstated assumptions",
+  "homepage": "https://archaiflow.com/templates/skills/brief-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

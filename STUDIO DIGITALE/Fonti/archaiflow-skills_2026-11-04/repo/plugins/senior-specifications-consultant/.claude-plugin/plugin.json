@@ -1,0 +1,11 @@
+{
+  "name": "senior-specifications-consultant",
+  "version": "1.0.0-db8dc2b55416",
+  "description": "A spec writer on how the words read to someone looking for room to move",
+  "homepage": "https://archaiflow.com/templates/agents/senior-specifications-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

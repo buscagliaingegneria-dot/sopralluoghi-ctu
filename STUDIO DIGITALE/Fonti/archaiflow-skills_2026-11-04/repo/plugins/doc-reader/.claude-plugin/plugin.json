@@ -1,0 +1,11 @@
+{
+  "name": "doc-reader",
+  "version": "1.0.0-6e080c19a1de",
+  "description": "Read and interpret a specification, report, or contract PDF",
+  "homepage": "https://archaiflow.com/templates/skills/doc-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-panel-load",
+  "version": "1.0.0-499024f5f2fa",
+  "description": "Total a panel's connected load and apply your demand factors",
+  "homepage": "https://archaiflow.com/templates/skills/design-panel-load",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

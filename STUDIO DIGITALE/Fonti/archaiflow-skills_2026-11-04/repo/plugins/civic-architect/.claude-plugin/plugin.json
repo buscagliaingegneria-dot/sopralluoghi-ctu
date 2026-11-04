@@ -1,0 +1,11 @@
+{
+  "name": "civic-architect",
+  "version": "1.0.0-86dedbec7de0",
+  "description": "A civic architect's read on a government building",
+  "homepage": "https://archaiflow.com/templates/agents/civic-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

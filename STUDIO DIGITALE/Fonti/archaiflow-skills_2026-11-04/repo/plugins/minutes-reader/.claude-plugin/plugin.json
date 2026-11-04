@@ -1,0 +1,11 @@
+{
+  "name": "minutes-reader",
+  "version": "1.0.0-0dcc33552105",
+  "description": "Read somebody else's minutes for what they recorded about you",
+  "homepage": "https://archaiflow.com/templates/skills/minutes-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

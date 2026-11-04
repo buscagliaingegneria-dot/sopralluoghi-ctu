@@ -1,0 +1,11 @@
+{
+  "name": "explain-bid",
+  "version": "1.0.0-2b7df3618970",
+  "description": "Separate real costs from risk-shifting in bid language",
+  "homepage": "https://archaiflow.com/templates/commands/explain-bid",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "facade-module",
+  "version": "1.0.0-8b4b225ccad2",
+  "description": "Divide an elevation into panels and lay out the leftover, option by option",
+  "homepage": "https://archaiflow.com/templates/skills/facade-module",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

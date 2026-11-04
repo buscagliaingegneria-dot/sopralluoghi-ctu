@@ -1,0 +1,11 @@
+{
+  "name": "code-reader",
+  "version": "1.0.0-e6aa4098490a",
+  "description": "Turn a code section into the requirements it actually contains",
+  "homepage": "https://archaiflow.com/templates/skills/code-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

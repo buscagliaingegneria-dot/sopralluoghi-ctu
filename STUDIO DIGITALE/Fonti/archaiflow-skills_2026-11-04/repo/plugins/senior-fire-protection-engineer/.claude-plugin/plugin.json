@@ -1,0 +1,11 @@
+{
+  "name": "senior-fire-protection-engineer",
+  "version": "1.0.0-6cdcbb3a8811",
+  "description": "A fire-protection engineer's gut-check on sprinkler and alarm design",
+  "homepage": "https://archaiflow.com/templates/agents/senior-fire-protection-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

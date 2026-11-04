@@ -1,0 +1,11 @@
+{
+  "name": "airtightness-tracker",
+  "version": "1.0.0-94f1541191b6",
+  "description": "Track one airtightness target from the spec through the site to the test",
+  "homepage": "https://archaiflow.com/templates/skills/airtightness-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

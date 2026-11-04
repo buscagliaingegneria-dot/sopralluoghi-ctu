@@ -1,0 +1,11 @@
+{
+  "name": "senior-code-consultant",
+  "version": "1.0.0-966012aebe1d",
+  "description": "A code consultant's read on which compliance path this building should take",
+  "homepage": "https://archaiflow.com/templates/agents/senior-code-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

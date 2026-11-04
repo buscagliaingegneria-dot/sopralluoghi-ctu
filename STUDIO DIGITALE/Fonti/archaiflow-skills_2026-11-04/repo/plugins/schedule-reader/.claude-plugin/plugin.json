@@ -1,0 +1,11 @@
+{
+  "name": "schedule-reader",
+  "version": "1.0.0-a149ce58c192",
+  "description": "Read an engineer's schedule for what it means to the architecture",
+  "homepage": "https://archaiflow.com/templates/skills/schedule-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

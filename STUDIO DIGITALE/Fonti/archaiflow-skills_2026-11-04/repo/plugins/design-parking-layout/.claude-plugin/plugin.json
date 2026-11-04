@@ -1,0 +1,11 @@
+{
+  "name": "design-parking-layout",
+  "version": "1.0.0-aecd667ce7f6",
+  "description": "Lay out parking around the bay, the aisle, and the ramp",
+  "homepage": "https://archaiflow.com/templates/skills/design-parking-layout",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

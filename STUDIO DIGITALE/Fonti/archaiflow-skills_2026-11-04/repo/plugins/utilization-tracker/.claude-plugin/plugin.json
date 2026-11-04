@@ -1,0 +1,11 @@
+{
+  "name": "utilization-tracker",
+  "version": "1.0.0-9801a7b4f498",
+  "description": "Track hours against fee by phase, and see the overrun while it is small",
+  "homepage": "https://archaiflow.com/templates/skills/utilization-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

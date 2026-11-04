@@ -1,0 +1,11 @@
+{
+  "name": "go-no-go-review",
+  "version": "1.0.0-e91d3f1bc8cb",
+  "description": "Score a pursuit before it costs you, on the things that actually predict",
+  "homepage": "https://archaiflow.com/templates/skills/go-no-go-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

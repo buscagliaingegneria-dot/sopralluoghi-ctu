@@ -1,0 +1,11 @@
+{
+  "name": "embodied-carbon-tracker",
+  "version": "1.0.0-e5780e598b64",
+  "description": "Track embodied carbon by stage against factors you supply",
+  "homepage": "https://archaiflow.com/templates/skills/embodied-carbon-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

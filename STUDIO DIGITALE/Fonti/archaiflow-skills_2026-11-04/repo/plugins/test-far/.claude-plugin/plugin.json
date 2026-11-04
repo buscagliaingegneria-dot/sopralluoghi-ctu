@@ -1,0 +1,11 @@
+{
+  "name": "test-far",
+  "version": "1.0.0-140069869990",
+  "description": "Check floor area ratio, coverage, setback, and height",
+  "homepage": "https://archaiflow.com/templates/commands/test-far",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

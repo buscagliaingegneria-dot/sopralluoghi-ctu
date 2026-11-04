@@ -1,0 +1,11 @@
+{
+  "name": "compliance-check",
+  "version": "1.0.0-277b192d23b5",
+  "description": "Hold a drawing against code text you paste, item by item",
+  "homepage": "https://archaiflow.com/templates/skills/compliance-check",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

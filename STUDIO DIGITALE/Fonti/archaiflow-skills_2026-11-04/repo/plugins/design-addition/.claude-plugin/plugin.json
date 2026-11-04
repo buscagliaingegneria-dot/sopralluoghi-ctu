@@ -1,0 +1,11 @@
+{
+  "name": "design-addition",
+  "version": "1.0.0-6d2eff14dff3",
+  "description": "Work out how new construction meets the building already there",
+  "homepage": "https://archaiflow.com/templates/skills/design-addition",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "senior-lighting-consultant",
+  "version": "1.0.0-28c761c611d3",
+  "description": "A lighting designer on what the space will look like, not what it measures",
+  "homepage": "https://archaiflow.com/templates/agents/senior-lighting-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

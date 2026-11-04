@@ -1,0 +1,11 @@
+{
+  "name": "rfi-writer",
+  "version": "1.0.0-c61eec844975",
+  "description": "Turn a site question into a filed, formal RFI",
+  "homepage": "https://archaiflow.com/templates/skills/rfi-writer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

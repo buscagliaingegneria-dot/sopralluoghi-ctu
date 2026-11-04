@@ -1,0 +1,11 @@
+{
+  "name": "explain-aia",
+  "version": "1.0.0-bfd59affb904",
+  "description": "Read a contract clause from all three sides",
+  "homepage": "https://archaiflow.com/templates/commands/explain-aia",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

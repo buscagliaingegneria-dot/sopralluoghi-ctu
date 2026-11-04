@@ -1,0 +1,11 @@
+{
+  "name": "explain-u-value",
+  "version": "1.0.0-d38ce2d73a4e",
+  "description": "Check an assembly's R-value against your climate zone",
+  "homepage": "https://archaiflow.com/templates/commands/explain-u-value",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

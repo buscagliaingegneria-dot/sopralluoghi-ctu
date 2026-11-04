@@ -1,0 +1,11 @@
+{
+  "name": "size-shaft",
+  "version": "1.0.0-30149c54fc9f",
+  "description": "Add up what has to fit in a shaft, plus the room to install and reach it",
+  "homepage": "https://archaiflow.com/templates/commands/size-shaft",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

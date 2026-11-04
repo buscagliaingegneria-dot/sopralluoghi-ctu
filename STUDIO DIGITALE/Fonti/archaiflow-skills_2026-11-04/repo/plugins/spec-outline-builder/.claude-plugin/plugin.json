@@ -1,0 +1,11 @@
+{
+  "name": "spec-outline-builder",
+  "version": "1.0.0-357c8b884341",
+  "description": "Build the section list this project needs from the drawings it has",
+  "homepage": "https://archaiflow.com/templates/skills/spec-outline-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

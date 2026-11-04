@@ -1,0 +1,11 @@
+{
+  "name": "draft-payment-application",
+  "version": "1.0.0-5bcb679e2d96",
+  "description": "Draft a contractor payment application",
+  "homepage": "https://archaiflow.com/templates/commands/draft-payment-application",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

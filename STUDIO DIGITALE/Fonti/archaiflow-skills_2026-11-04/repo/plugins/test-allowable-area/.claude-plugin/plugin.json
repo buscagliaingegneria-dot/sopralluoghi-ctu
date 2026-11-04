@@ -1,0 +1,11 @@
+{
+  "name": "test-allowable-area",
+  "version": "1.0.0-8cade4eea47f",
+  "description": "Check a building's allowable area",
+  "homepage": "https://archaiflow.com/templates/commands/test-allowable-area",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

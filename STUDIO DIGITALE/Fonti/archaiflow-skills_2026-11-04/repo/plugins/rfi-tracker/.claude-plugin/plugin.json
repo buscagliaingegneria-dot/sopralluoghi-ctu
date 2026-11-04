@@ -1,0 +1,11 @@
+{
+  "name": "rfi-tracker",
+  "version": "1.0.0-d0384daedcb7",
+  "description": "Keep the RFI log, and watch the pattern the individual answers hide",
+  "homepage": "https://archaiflow.com/templates/skills/rfi-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

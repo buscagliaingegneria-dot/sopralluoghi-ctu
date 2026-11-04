@@ -1,0 +1,11 @@
+{
+  "name": "design-bathroom",
+  "version": "1.0.0-fee7f9650723",
+  "description": "Lay out a bathroom around the plumbing wall and the door swing",
+  "homepage": "https://archaiflow.com/templates/skills/design-bathroom",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

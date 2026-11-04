@@ -1,0 +1,11 @@
+{
+  "name": "applicability-check",
+  "version": "1.0.0-10432f66e598",
+  "description": "Work out whether a requirement applies to you before reading it",
+  "homepage": "https://archaiflow.com/templates/skills/applicability-check",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

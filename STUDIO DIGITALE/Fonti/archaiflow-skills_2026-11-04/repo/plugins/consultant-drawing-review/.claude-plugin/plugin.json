@@ -1,0 +1,11 @@
+{
+  "name": "consultant-drawing-review",
+  "version": "1.0.0-d1f9d7b8071c",
+  "description": "Read any consultant's drawing against the architectural set",
+  "homepage": "https://archaiflow.com/templates/skills/consultant-drawing-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

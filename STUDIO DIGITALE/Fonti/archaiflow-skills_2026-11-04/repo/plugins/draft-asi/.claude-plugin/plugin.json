@@ -1,0 +1,11 @@
+{
+  "name": "draft-asi",
+  "version": "1.0.0-00a71bc69369",
+  "description": "Instruct the contractor without changing cost or time",
+  "homepage": "https://archaiflow.com/templates/commands/draft-asi",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

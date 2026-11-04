@@ -1,0 +1,11 @@
+{
+  "name": "design-below-grade-assembly",
+  "version": "1.0.0-3918eaaba90f",
+  "description": "Build up a below-grade wall or slab where water comes first and drying does not",
+  "homepage": "https://archaiflow.com/templates/skills/design-below-grade-assembly",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

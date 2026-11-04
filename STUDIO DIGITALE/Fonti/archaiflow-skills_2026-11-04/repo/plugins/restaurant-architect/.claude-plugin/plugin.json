@@ -1,0 +1,11 @@
+{
+  "name": "restaurant-architect",
+  "version": "1.0.0-dfb71e85a18d",
+  "description": "A restaurant architect on the kitchen, the covers, and the queue",
+  "homepage": "https://archaiflow.com/templates/agents/restaurant-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

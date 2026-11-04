@@ -1,0 +1,11 @@
+{
+  "name": "drawing-checklist",
+  "version": "1.0.0-cce8b2023767",
+  "description": "Get a drawing-set checklist for the phase you are in",
+  "homepage": "https://archaiflow.com/templates/skills/drawing-checklist",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

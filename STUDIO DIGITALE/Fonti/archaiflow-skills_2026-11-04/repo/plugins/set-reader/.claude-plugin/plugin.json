@@ -1,0 +1,11 @@
+{
+  "name": "set-reader",
+  "version": "1.0.0-df2100a21d04",
+  "description": "Read a whole drawing set and say what kind of set it is",
+  "homepage": "https://archaiflow.com/templates/skills/set-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

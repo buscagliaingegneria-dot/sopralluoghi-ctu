@@ -1,0 +1,11 @@
+{
+  "name": "site-access-study",
+  "version": "1.0.0-d0c32707f4a0",
+  "description": "Work out how vehicles, services, and fire access reach the site",
+  "homepage": "https://archaiflow.com/templates/skills/site-access-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

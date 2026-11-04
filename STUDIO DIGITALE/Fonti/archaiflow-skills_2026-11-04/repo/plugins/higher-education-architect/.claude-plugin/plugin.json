@@ -1,0 +1,11 @@
+{
+  "name": "higher-education-architect",
+  "version": "1.0.0-1ea30be3c88c",
+  "description": "A campus architect's read on a university project",
+  "homepage": "https://archaiflow.com/templates/agents/higher-education-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "calculation-reader",
+  "version": "1.0.0-378e6dd416f2",
+  "description": "Read an engineer's calculation for its inputs, not its arithmetic",
+  "homepage": "https://archaiflow.com/templates/skills/calculation-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

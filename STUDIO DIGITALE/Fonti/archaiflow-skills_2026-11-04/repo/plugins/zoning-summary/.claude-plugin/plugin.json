@@ -1,0 +1,11 @@
+{
+  "name": "zoning-summary",
+  "version": "1.0.0-a056c873d1b2",
+  "description": "Turn a parcel lookup into a zoning summary for early design",
+  "homepage": "https://archaiflow.com/templates/skills/zoning-summary",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

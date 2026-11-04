@@ -1,0 +1,11 @@
+{
+  "name": "design-kitchen",
+  "version": "1.0.0-8f00466b426f",
+  "description": "Lay out a kitchen around the work that happens in it, and the services",
+  "homepage": "https://archaiflow.com/templates/skills/design-kitchen",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

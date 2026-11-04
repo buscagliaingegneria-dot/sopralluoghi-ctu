@@ -1,0 +1,11 @@
+{
+  "name": "draft-rfi-response",
+  "version": "1.0.0-eea159441b6f",
+  "description": "Answer an RFI without giving away scope, cost, or time",
+  "homepage": "https://archaiflow.com/templates/commands/draft-rfi-response",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

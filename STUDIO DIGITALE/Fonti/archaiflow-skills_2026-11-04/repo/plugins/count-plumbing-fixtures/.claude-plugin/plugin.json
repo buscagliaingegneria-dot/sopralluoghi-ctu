@@ -1,0 +1,11 @@
+{
+  "name": "count-plumbing-fixtures",
+  "version": "1.0.0-8dc71b3d65d2",
+  "description": "Work out required fixture counts from the table you supply",
+  "homepage": "https://archaiflow.com/templates/commands/count-plumbing-fixtures",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

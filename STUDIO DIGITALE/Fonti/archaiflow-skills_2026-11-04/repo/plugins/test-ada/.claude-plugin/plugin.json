@@ -1,0 +1,11 @@
+{
+  "name": "test-ada",
+  "version": "1.0.0-06f4317f3810",
+  "description": "Math-check one accessibility clearance against the source",
+  "homepage": "https://archaiflow.com/templates/commands/test-ada",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

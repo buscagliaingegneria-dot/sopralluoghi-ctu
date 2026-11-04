@@ -1,0 +1,11 @@
+{
+  "name": "bid-review",
+  "version": "1.0.0-9503ebc1d660",
+  "description": "Review contractor bids for scope, exclusions, and terms before award",
+  "homepage": "https://archaiflow.com/templates/skills/bid-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

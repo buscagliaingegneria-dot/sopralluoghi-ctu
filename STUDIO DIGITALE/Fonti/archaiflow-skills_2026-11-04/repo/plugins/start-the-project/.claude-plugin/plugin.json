@@ -1,0 +1,11 @@
+{
+  "name": "start-the-project",
+  "version": "1.0.0-b185a37445dd",
+  "description": "Settle what has to be decided now, and what can wait",
+  "homepage": "https://archaiflow.com/templates/skills/start-the-project",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

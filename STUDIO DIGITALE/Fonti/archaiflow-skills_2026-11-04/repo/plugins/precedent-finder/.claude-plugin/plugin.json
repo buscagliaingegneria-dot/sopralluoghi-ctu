@@ -1,0 +1,11 @@
+{
+  "name": "precedent-finder",
+  "version": "1.0.0-091ca04394c5",
+  "description": "Find architectural precedents for a concept or condition",
+  "homepage": "https://archaiflow.com/templates/skills/precedent-finder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

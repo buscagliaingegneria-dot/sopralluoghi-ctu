@@ -1,0 +1,11 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0-72cd12979e58",
+  "description": "Sort a messy folder into a taxonomy you approve first",
+  "homepage": "https://archaiflow.com/templates/skills/file-organizer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

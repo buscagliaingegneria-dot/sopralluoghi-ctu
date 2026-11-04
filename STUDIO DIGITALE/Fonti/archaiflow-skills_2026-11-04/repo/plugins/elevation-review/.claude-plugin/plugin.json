@@ -1,0 +1,11 @@
+{
+  "name": "elevation-review",
+  "version": "1.0.0-ed030178c97a",
+  "description": "Read an elevation for what it decides and what it flattens away",
+  "homepage": "https://archaiflow.com/templates/skills/elevation-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

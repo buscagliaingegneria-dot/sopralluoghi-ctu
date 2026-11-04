@@ -1,0 +1,11 @@
+{
+  "name": "landscape-architect",
+  "version": "1.0.0-75f913fc78cd",
+  "description": "A landscape architect's read on site, grading, and planting",
+  "homepage": "https://archaiflow.com/templates/agents/landscape-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

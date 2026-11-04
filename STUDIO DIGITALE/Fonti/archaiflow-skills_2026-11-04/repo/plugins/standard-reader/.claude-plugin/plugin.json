@@ -1,0 +1,11 @@
+{
+  "name": "standard-reader",
+  "version": "1.0.0-248183cdd454",
+  "description": "Read a referenced standard for what it covers and what it does not",
+  "homepage": "https://archaiflow.com/templates/skills/standard-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

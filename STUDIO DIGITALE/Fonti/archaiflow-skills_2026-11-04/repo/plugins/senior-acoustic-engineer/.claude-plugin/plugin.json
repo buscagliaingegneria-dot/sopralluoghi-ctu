@@ -1,0 +1,11 @@
+{
+  "name": "senior-acoustic-engineer",
+  "version": "1.0.0-718b2aa7087e",
+  "description": "An acoustician's gut-check on an assembly or noise study",
+  "homepage": "https://archaiflow.com/templates/agents/senior-acoustic-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

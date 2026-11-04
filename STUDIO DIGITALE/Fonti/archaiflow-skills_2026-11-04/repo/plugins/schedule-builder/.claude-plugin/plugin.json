@@ -1,0 +1,11 @@
+{
+  "name": "schedule-builder",
+  "version": "1.0.0-80cead0b40c7",
+  "description": "Build a door, window, finish, or room schedule that the drawings can survive",
+  "homepage": "https://archaiflow.com/templates/skills/schedule-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

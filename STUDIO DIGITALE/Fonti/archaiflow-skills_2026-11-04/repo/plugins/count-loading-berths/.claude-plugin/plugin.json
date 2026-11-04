@@ -1,0 +1,11 @@
+{
+  "name": "count-loading-berths",
+  "version": "1.0.0-1d332add70fa",
+  "description": "Work out required loading berths from the table you supply",
+  "homepage": "https://archaiflow.com/templates/commands/count-loading-berths",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

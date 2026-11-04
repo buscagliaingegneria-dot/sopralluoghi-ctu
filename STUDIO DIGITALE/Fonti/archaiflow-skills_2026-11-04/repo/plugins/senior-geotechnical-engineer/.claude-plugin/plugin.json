@@ -1,0 +1,11 @@
+{
+  "name": "senior-geotechnical-engineer",
+  "version": "1.0.0-a1894db2002e",
+  "description": "A geotechnical engineer's gut-check on a soils report",
+  "homepage": "https://archaiflow.com/templates/agents/senior-geotechnical-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

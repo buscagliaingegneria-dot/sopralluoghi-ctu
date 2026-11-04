@@ -1,0 +1,11 @@
+{
+  "name": "design-parapet",
+  "version": "1.0.0-d7e57917d1d1",
+  "description": "Carry the wall and roof control layers around the one corner that leaks most",
+  "homepage": "https://archaiflow.com/templates/skills/design-parapet",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

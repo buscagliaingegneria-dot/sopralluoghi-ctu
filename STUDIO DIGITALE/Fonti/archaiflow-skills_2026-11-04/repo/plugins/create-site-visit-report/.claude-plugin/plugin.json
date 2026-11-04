@@ -1,0 +1,11 @@
+{
+  "name": "create-site-visit-report",
+  "version": "1.0.0-c8d3476664a4",
+  "description": "Write a field observation report with photos",
+  "homepage": "https://archaiflow.com/templates/commands/create-site-visit-report",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-narrative",
+  "version": "1.0.0-af552aac47f7",
+  "description": "Write what the project is, for a reader who was not in the room",
+  "homepage": "https://archaiflow.com/templates/skills/design-narrative",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

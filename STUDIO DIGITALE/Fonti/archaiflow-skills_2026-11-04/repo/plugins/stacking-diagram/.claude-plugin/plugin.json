@@ -1,0 +1,11 @@
+{
+  "name": "stacking-diagram",
+  "version": "1.0.0-e0e35d9847d3",
+  "description": "Stack the programme against what the floor plate and the core will actually take",
+  "homepage": "https://archaiflow.com/templates/skills/stacking-diagram",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

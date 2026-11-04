@@ -1,0 +1,11 @@
+{
+  "name": "lookup-csi",
+  "version": "1.0.0-d69e0789f9a9",
+  "description": "Find the spec section number for a product or scope",
+  "homepage": "https://archaiflow.com/templates/commands/lookup-csi",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

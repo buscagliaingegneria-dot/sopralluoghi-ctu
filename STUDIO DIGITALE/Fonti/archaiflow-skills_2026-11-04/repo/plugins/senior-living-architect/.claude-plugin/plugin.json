@@ -1,0 +1,11 @@
+{
+  "name": "senior-living-architect",
+  "version": "1.0.0-c6a607f8f6fd",
+  "description": "A senior-living architect's read on an aging-care project",
+  "homepage": "https://archaiflow.com/templates/agents/senior-living-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

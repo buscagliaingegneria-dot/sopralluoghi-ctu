@@ -1,0 +1,11 @@
+{
+  "name": "submission-reader",
+  "version": "1.0.0-d17729bf2c74",
+  "description": "Read what an authority sent back and say what it actually requires",
+  "homepage": "https://archaiflow.com/templates/skills/submission-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

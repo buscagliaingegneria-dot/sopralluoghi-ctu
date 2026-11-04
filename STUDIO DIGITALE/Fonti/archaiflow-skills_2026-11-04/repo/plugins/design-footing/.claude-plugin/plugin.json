@@ -1,0 +1,11 @@
+{
+  "name": "design-footing",
+  "version": "1.0.0-89a0e5c91600",
+  "description": "Check a spread footing against the bearing value your report gives",
+  "homepage": "https://archaiflow.com/templates/skills/design-footing",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

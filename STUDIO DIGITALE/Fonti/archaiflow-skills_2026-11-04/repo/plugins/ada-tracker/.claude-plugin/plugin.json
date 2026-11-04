@@ -1,0 +1,11 @@
+{
+  "name": "ada-tracker",
+  "version": "1.0.0-2df8c2cdf41a",
+  "description": "Build an accessibility compliance checklist for a project",
+  "homepage": "https://archaiflow.com/templates/skills/ada-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

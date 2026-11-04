@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-reuse-architect",
+  "version": "1.0.0-2ac347ab5ddb",
+  "description": "A reuse architect on what the building allows, and what it costs to find out",
+  "homepage": "https://archaiflow.com/templates/agents/adaptive-reuse-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

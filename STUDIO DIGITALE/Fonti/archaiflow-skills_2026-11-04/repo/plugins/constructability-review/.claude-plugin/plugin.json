@@ -1,0 +1,11 @@
+{
+  "name": "constructability-review",
+  "version": "1.0.0-f17d45ecfbaf",
+  "description": "Read a document set through a builder's eyes",
+  "homepage": "https://archaiflow.com/templates/skills/constructability-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

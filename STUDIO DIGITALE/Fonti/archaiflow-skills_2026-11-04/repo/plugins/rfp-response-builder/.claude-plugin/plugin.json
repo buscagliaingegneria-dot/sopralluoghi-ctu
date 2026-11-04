@@ -1,0 +1,11 @@
+{
+  "name": "rfp-response-builder",
+  "version": "1.0.0-fd0ca63ad89b",
+  "description": "Build a response that answers what was asked, in their order",
+  "homepage": "https://archaiflow.com/templates/skills/rfp-response-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

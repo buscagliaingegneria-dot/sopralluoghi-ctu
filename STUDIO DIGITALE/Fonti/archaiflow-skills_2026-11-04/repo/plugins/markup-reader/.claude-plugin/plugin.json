@@ -1,0 +1,11 @@
+{
+  "name": "markup-reader",
+  "version": "1.0.0-f3eadd1e9b6a",
+  "description": "Read a marked-up drawing and turn it into a list somebody can act on",
+  "homepage": "https://archaiflow.com/templates/skills/markup-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

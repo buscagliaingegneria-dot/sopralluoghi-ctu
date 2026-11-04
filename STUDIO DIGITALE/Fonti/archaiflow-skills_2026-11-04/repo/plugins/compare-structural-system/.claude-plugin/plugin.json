@@ -1,0 +1,11 @@
+{
+  "name": "compare-structural-system",
+  "version": "1.0.0-bc0731e750e5",
+  "description": "Put structural systems side by side on what each does to the architecture",
+  "homepage": "https://archaiflow.com/templates/commands/compare-structural-system",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

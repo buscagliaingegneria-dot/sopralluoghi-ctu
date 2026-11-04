@@ -1,0 +1,11 @@
+{
+  "name": "bim-architect",
+  "version": "1.0.0-05f278c37d0b",
+  "description": "A BIM lead's read on a model, family, or execution plan",
+  "homepage": "https://archaiflow.com/templates/agents/bim-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

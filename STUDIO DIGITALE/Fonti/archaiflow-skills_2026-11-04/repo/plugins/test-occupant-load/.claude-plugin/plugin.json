@@ -1,0 +1,11 @@
+{
+  "name": "test-occupant-load",
+  "version": "1.0.0-c8b797e7c39e",
+  "description": "Compute occupant load when you already have the table row",
+  "homepage": "https://archaiflow.com/templates/commands/test-occupant-load",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

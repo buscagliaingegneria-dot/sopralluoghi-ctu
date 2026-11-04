@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-tracker",
+  "version": "1.0.0-aba377b89118",
+  "description": "Track every pursuit from first whisper to won or lost, and what each cost",
+  "homepage": "https://archaiflow.com/templates/skills/pipeline-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

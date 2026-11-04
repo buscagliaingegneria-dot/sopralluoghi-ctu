@@ -1,0 +1,11 @@
+{
+  "name": "design-beam",
+  "version": "1.0.0-d2ca8a2de0b1",
+  "description": "Size a simply-supported beam in steel, wood, or concrete",
+  "homepage": "https://archaiflow.com/templates/skills/design-beam",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workplace-architect",
+  "version": "1.0.0-d7f9faede451",
+  "description": "A workplace architect on density, the core, and how people actually work",
+  "homepage": "https://archaiflow.com/templates/agents/workplace-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

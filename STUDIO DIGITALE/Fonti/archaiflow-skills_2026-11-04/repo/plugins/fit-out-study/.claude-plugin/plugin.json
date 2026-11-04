@@ -1,0 +1,11 @@
+{
+  "name": "fit-out-study",
+  "version": "1.0.0-01041937a59c",
+  "description": "Fit a programme into a shell somebody else built",
+  "homepage": "https://archaiflow.com/templates/skills/fit-out-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

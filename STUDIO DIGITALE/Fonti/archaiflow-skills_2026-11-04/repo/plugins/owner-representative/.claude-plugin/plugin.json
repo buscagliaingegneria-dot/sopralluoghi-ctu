@@ -1,0 +1,11 @@
+{
+  "name": "owner-representative",
+  "version": "1.0.0-fceaa9924414",
+  "description": "Reads your recommendation the way the person paying for it will",
+  "homepage": "https://archaiflow.com/templates/agents/owner-representative",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

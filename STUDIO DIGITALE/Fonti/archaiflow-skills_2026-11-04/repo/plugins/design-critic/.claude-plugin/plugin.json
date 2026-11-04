@@ -1,0 +1,11 @@
+{
+  "name": "design-critic",
+  "version": "1.0.0-d2b54a1f19c2",
+  "description": "Get a structured critique of a design",
+  "homepage": "https://archaiflow.com/templates/skills/design-critic",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "residential-architect",
+  "version": "1.0.0-38040ec66f52",
+  "description": "A custom-home architect on the site, the plan, and the budget not yet said",
+  "homepage": "https://archaiflow.com/templates/agents/residential-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

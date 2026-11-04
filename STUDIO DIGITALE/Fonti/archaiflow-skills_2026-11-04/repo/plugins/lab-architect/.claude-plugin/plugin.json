@@ -1,0 +1,11 @@
+{
+  "name": "lab-architect",
+  "version": "1.0.0-67bf223bfaf6",
+  "description": "A lab architect on the module, the services, and what the science needs",
+  "homepage": "https://archaiflow.com/templates/agents/lab-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-egress",
+  "version": "1.0.0-028e74fed5bd",
+  "description": "Check one egress question - pass, fail, or marginal",
+  "homepage": "https://archaiflow.com/templates/commands/test-egress",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

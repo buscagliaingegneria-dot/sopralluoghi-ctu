@@ -1,0 +1,11 @@
+{
+  "name": "subconsultant-agreement-review",
+  "version": "1.0.0-9c1d788e3ca1",
+  "description": "Check that your subconsultant agreements match what you promised the owner",
+  "homepage": "https://archaiflow.com/templates/skills/subconsultant-agreement-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

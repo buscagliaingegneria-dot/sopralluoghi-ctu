@@ -1,0 +1,11 @@
+{
+  "name": "test-massing",
+  "version": "1.0.0-92e2fc79ae92",
+  "description": "Compare massing options by computed GFA, height, and net area",
+  "homepage": "https://archaiflow.com/templates/commands/test-massing",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

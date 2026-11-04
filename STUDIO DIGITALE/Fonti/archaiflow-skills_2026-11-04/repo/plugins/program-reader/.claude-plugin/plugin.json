@@ -1,0 +1,11 @@
+{
+  "name": "program-reader",
+  "version": "1.0.0-eb1eff408a44",
+  "description": "Read a brief or programme document for what its numbers rest on",
+  "homepage": "https://archaiflow.com/templates/skills/program-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

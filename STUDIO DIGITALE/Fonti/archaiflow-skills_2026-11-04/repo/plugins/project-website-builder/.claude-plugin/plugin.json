@@ -1,0 +1,11 @@
+{
+  "name": "project-website-builder",
+  "version": "1.0.0-108792f3cacd",
+  "description": "Turn a project PDF or images into one web page you can send as a link",
+  "homepage": "https://archaiflow.com/templates/skills/project-website-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

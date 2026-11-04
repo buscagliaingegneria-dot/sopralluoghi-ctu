@@ -1,0 +1,11 @@
+{
+  "name": "submittal-review",
+  "version": "1.0.0-3d349c9132a7",
+  "description": "Review a shop drawing or product data against the documents",
+  "homepage": "https://archaiflow.com/templates/skills/submittal-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "senior-commissioning-consultant",
+  "version": "1.0.0-24f51053740f",
+  "description": "A commissioning agent on whether the building will do what the drawings claim",
+  "homepage": "https://archaiflow.com/templates/agents/senior-commissioning-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

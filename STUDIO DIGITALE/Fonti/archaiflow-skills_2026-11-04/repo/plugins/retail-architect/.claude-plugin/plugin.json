@@ -1,0 +1,11 @@
+{
+  "name": "retail-architect",
+  "version": "1.0.0-46c8e6c78501",
+  "description": "A retail architect on the frontage, the flow, and the landlord's rules",
+  "homepage": "https://archaiflow.com/templates/agents/retail-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

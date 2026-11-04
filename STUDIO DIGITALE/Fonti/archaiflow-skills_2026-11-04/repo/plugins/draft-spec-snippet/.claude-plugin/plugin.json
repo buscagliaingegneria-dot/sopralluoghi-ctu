@@ -1,0 +1,11 @@
+{
+  "name": "draft-spec-snippet",
+  "version": "1.0.0-0a78d14832cc",
+  "description": "Write a product paragraph for a spec section",
+  "homepage": "https://archaiflow.com/templates/commands/draft-spec-snippet",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

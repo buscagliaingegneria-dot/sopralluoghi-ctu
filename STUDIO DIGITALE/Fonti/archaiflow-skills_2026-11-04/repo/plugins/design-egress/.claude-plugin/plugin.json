@@ -1,0 +1,11 @@
+{
+  "name": "design-egress",
+  "version": "1.0.0-f74dbd79fa81",
+  "description": "Verify exit counts, widths, separation, and travel distance",
+  "homepage": "https://archaiflow.com/templates/skills/design-egress",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

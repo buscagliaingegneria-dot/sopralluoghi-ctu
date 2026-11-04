@@ -1,0 +1,11 @@
+{
+  "name": "test-fire-rating",
+  "version": "1.0.0-fa318883ed51",
+  "description": "Check the required hourly rating for an element",
+  "homepage": "https://archaiflow.com/templates/commands/test-fire-rating",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

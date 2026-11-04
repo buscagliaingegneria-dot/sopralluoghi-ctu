@@ -1,0 +1,11 @@
+{
+  "name": "delay-triage",
+  "version": "1.0.0-fc67284a3e35",
+  "description": "Work out whose delay this is before anyone writes a letter",
+  "homepage": "https://archaiflow.com/templates/skills/delay-triage",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "photo-reader",
+  "version": "1.0.0-b5f878f7c01b",
+  "description": "Read a photograph for what it shows and what it cannot show",
+  "homepage": "https://archaiflow.com/templates/skills/photo-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aec-doc-gen",
+  "version": "1.0.0-d96ebc6ac43b",
+  "description": "Render Markdown into Word, Excel, or PDF for transmittal",
+  "homepage": "https://archaiflow.com/templates/skills/aec-doc-gen",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

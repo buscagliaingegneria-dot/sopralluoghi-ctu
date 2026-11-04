@@ -1,0 +1,11 @@
+{
+  "name": "drawing-set-bookmarker",
+  "version": "1.0.0-d270241907cf",
+  "description": "Bookmark a flat drawing-set PDF and index its sheets",
+  "homepage": "https://archaiflow.com/templates/skills/drawing-set-bookmarker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

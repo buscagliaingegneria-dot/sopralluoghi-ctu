@@ -1,0 +1,11 @@
+{
+  "name": "design-partition",
+  "version": "1.0.0-cb7889baf588",
+  "description": "Build up an interior partition and decide where it stops",
+  "homepage": "https://archaiflow.com/templates/skills/design-partition",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

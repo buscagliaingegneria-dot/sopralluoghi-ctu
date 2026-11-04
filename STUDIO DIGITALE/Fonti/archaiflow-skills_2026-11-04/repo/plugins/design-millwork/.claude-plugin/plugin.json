@@ -1,0 +1,11 @@
+{
+  "name": "design-millwork",
+  "version": "1.0.0-5213aa41e3fd",
+  "description": "Detail built-in joinery so the shop can price it and the wall can hold it",
+  "homepage": "https://archaiflow.com/templates/skills/design-millwork",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

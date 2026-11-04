@@ -1,0 +1,11 @@
+{
+  "name": "senior-contractor",
+  "version": "1.0.0-ff3278a967a4",
+  "description": "A senior builder's gut-check on a package before it goes out",
+  "homepage": "https://archaiflow.com/templates/agents/senior-contractor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

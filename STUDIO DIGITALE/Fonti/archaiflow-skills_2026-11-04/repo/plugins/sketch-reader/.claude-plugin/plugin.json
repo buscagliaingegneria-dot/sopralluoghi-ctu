@@ -1,0 +1,11 @@
+{
+  "name": "sketch-reader",
+  "version": "1.0.0-09d5e25ab75b",
+  "description": "Read a sketch, an image, or a model view and say what it commits to",
+  "homepage": "https://archaiflow.com/templates/skills/sketch-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

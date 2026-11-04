@@ -1,0 +1,11 @@
+{
+  "name": "adjacency-matrix",
+  "version": "1.0.0-beaa2f655c24",
+  "description": "Build the matrix from who actually moves, not from who says they are close",
+  "homepage": "https://archaiflow.com/templates/skills/adjacency-matrix",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

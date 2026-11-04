@@ -1,0 +1,11 @@
+{
+  "name": "precedent-critique",
+  "version": "1.0.0-806dc7ca5a75",
+  "description": "Critique your scheme through lenses drawn from precedents you supply",
+  "homepage": "https://archaiflow.com/templates/skills/precedent-critique",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

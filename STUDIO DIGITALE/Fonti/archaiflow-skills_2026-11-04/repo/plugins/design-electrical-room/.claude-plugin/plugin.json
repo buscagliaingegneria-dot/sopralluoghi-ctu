@@ -1,0 +1,11 @@
+{
+  "name": "design-electrical-room",
+  "version": "1.0.0-c793c7132f32",
+  "description": "Lay out an electrical room around the clearances that cannot be built on",
+  "homepage": "https://archaiflow.com/templates/skills/design-electrical-room",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

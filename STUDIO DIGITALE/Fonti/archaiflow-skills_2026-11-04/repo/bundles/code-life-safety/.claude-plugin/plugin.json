@@ -1,0 +1,11 @@
+{
+  "name": "code-life-safety",
+  "version": "1.0.0-24a3bcf965d0",
+  "description": "Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for North American architecture practice.",
+  "homepage": "https://archaiflow.com/templates/code-life-safety",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

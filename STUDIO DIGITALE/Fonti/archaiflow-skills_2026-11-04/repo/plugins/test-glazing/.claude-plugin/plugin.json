@@ -1,0 +1,11 @@
+{
+  "name": "test-glazing",
+  "version": "1.0.0-bb9a8933db66",
+  "description": "Check a window against the energy table for your zone",
+  "homepage": "https://archaiflow.com/templates/commands/test-glazing",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

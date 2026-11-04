@@ -1,0 +1,11 @@
+{
+  "name": "design-duct",
+  "version": "1.0.0-6dc4907695b9",
+  "description": "Size a duct run from the airflow and the limits you set",
+  "homepage": "https://archaiflow.com/templates/skills/design-duct",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

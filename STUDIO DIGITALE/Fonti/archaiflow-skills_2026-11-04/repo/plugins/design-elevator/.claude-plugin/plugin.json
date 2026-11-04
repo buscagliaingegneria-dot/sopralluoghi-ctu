@@ -1,0 +1,11 @@
+{
+  "name": "design-elevator",
+  "version": "1.0.0-d6aaef230b8f",
+  "description": "Hold space for the shaft, the pit, the overrun, and the machine",
+  "homepage": "https://archaiflow.com/templates/skills/design-elevator",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

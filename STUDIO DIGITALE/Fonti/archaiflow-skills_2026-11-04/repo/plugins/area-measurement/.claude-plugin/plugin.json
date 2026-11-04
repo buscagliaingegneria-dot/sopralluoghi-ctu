@@ -1,0 +1,11 @@
+{
+  "name": "area-measurement",
+  "version": "1.0.0-5535cdd9f61d",
+  "description": "Establish which area standard governs and what actually counts in it",
+  "homepage": "https://archaiflow.com/templates/skills/area-measurement",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

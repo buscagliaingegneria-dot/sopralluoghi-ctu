@@ -1,0 +1,11 @@
+{
+  "name": "design-mechanical-room",
+  "version": "1.0.0-df93d2aeff9a",
+  "description": "Size a plant room for the equipment, the air, and getting it back out again",
+  "homepage": "https://archaiflow.com/templates/skills/design-mechanical-room",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-compliance-review",
+  "version": "1.0.0-32d1769a73e3",
+  "description": "Audit a plan across eight egress and accessibility axes",
+  "homepage": "https://archaiflow.com/templates/skills/code-compliance-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

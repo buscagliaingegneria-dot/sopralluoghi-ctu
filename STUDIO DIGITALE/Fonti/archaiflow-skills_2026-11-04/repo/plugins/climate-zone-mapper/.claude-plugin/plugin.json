@@ -1,0 +1,11 @@
+{
+  "name": "climate-zone-mapper",
+  "version": "1.0.0-dc97fe6d814d",
+  "description": "Record a site's climate zone and its envelope requirements",
+  "homepage": "https://archaiflow.com/templates/skills/climate-zone-mapper",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

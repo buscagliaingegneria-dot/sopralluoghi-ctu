@@ -1,0 +1,11 @@
+{
+  "name": "site-analysis",
+  "version": "1.0.0-4cff62ced9d5",
+  "description": "Read a site for what it decides, before anything is drawn on it",
+  "homepage": "https://archaiflow.com/templates/skills/site-analysis",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

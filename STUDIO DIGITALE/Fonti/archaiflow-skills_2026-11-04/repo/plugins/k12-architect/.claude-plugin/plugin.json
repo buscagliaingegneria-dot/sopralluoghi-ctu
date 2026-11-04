@@ -1,0 +1,11 @@
+{
+  "name": "k12-architect",
+  "version": "1.0.0-1f5bbb60bd97",
+  "description": "A K-12 architect's read on a school plan",
+  "homepage": "https://archaiflow.com/templates/agents/k12-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

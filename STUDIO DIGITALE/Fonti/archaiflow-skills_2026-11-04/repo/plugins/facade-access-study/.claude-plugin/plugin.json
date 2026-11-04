@@ -1,0 +1,11 @@
+{
+  "name": "facade-access-study",
+  "version": "1.0.0-404da89e550d",
+  "description": "Work out how every face of the envelope gets reached, cleaned, and replaced",
+  "homepage": "https://archaiflow.com/templates/skills/facade-access-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

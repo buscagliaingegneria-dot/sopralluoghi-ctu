@@ -1,0 +1,11 @@
+{
+  "name": "phasing-study",
+  "version": "1.0.0-522b65c15fd7",
+  "description": "Plan construction phases around a building that stays open through them",
+  "homepage": "https://archaiflow.com/templates/skills/phasing-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

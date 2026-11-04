@@ -1,0 +1,11 @@
+{
+  "name": "seismic-lookup",
+  "version": "1.0.0-19bfb7b55775",
+  "description": "Record a site's seismic design parameters and where each came from",
+  "homepage": "https://archaiflow.com/templates/skills/seismic-lookup",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

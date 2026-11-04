@@ -1,0 +1,11 @@
+{
+  "name": "sf330-builder",
+  "version": "1.0.0-cc29902a57d6",
+  "description": "Assemble an SF330 with the project sheets that actually match the scope",
+  "homepage": "https://archaiflow.com/templates/skills/sf330-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

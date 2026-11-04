@@ -1,0 +1,11 @@
+{
+  "name": "compare-assembly",
+  "version": "1.0.0-cb6bbc7c9f40",
+  "description": "Put two or more envelope build-ups side by side on criteria you name",
+  "homepage": "https://archaiflow.com/templates/commands/compare-assembly",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

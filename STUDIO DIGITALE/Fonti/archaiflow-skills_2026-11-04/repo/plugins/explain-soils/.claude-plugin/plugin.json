@@ -1,0 +1,11 @@
+{
+  "name": "explain-soils",
+  "version": "1.0.0-d4bffeb27aec",
+  "description": "Explain a geotechnical recommendation in plain English",
+  "homepage": "https://archaiflow.com/templates/commands/explain-soils",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

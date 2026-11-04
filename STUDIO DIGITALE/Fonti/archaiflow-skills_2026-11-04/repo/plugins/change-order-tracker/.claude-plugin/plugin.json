@@ -1,0 +1,11 @@
+{
+  "name": "change-order-tracker",
+  "version": "1.0.0-1c6ddaad9e26",
+  "description": "Track every change from first mention to executed, including the ones that stall",
+  "homepage": "https://archaiflow.com/templates/skills/change-order-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

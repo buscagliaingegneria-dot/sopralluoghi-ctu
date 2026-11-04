@@ -1,0 +1,11 @@
+{
+  "name": "explain-vapor-retarder",
+  "version": "1.0.0-0fcb219e9b8c",
+  "description": "Explain what a vapor retarder does, and what it is being asked to do here",
+  "homepage": "https://archaiflow.com/templates/commands/explain-vapor-retarder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

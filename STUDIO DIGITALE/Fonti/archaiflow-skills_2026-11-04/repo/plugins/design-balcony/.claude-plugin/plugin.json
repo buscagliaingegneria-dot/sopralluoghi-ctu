@@ -1,0 +1,11 @@
+{
+  "name": "design-balcony",
+  "version": "1.0.0-8e30f7c88ca5",
+  "description": "Carry structure, water, and insulation past the wall without losing any",
+  "homepage": "https://archaiflow.com/templates/skills/design-balcony",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

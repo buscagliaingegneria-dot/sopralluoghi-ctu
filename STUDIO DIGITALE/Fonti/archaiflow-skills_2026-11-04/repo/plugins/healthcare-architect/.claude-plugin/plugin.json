@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-architect",
+  "version": "1.0.0-ebc52397f02a",
+  "description": "A healthcare architect's read on a hospital or clinic plan",
+  "homepage": "https://archaiflow.com/templates/agents/healthcare-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

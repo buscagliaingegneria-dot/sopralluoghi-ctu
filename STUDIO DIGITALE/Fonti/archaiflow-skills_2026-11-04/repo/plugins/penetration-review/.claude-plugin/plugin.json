@@ -1,0 +1,11 @@
+{
+  "name": "penetration-review",
+  "version": "1.0.0-760afde35512",
+  "description": "Find every hole through an assembly and say what closes it, and to what",
+  "homepage": "https://archaiflow.com/templates/skills/penetration-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

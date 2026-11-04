@@ -1,0 +1,11 @@
+{
+  "name": "explain-stamp",
+  "version": "1.0.0-2d4008a308ea",
+  "description": "Explain what a submittal stamp commits you to",
+  "homepage": "https://archaiflow.com/templates/commands/explain-stamp",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

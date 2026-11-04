@@ -1,0 +1,11 @@
+{
+  "name": "design-ceiling",
+  "version": "1.0.0-cf92b6048b4f",
+  "description": "Set the ceiling height by what has to fit above it",
+  "homepage": "https://archaiflow.com/templates/skills/design-ceiling",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

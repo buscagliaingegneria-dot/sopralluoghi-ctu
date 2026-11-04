@@ -1,0 +1,11 @@
+{
+  "name": "air-barrier-trace",
+  "version": "1.0.0-174e21afbd85",
+  "description": "Follow the air, water, vapor, and thermal layers around a section for breaks",
+  "homepage": "https://archaiflow.com/templates/skills/air-barrier-trace",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

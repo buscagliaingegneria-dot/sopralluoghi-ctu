@@ -1,0 +1,11 @@
+{
+  "name": "doc-finder",
+  "version": "1.0.0-fc16038519be",
+  "description": "Find an answer in your own files, with a citation",
+  "homepage": "https://archaiflow.com/templates/agents/doc-finder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

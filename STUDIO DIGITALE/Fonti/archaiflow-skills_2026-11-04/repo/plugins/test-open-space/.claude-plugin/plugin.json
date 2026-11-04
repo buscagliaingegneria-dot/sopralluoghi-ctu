@@ -1,0 +1,11 @@
+{
+  "name": "test-open-space",
+  "version": "1.0.0-6880f27d1caa",
+  "description": "Check provided open space against what the district requires",
+  "homepage": "https://archaiflow.com/templates/commands/test-open-space",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

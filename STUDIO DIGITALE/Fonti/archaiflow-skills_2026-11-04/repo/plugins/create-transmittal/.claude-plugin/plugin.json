@@ -1,0 +1,11 @@
+{
+  "name": "create-transmittal",
+  "version": "1.0.0-cf8dd359a035",
+  "description": "Make a cover sheet for a document package",
+  "homepage": "https://archaiflow.com/templates/commands/create-transmittal",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

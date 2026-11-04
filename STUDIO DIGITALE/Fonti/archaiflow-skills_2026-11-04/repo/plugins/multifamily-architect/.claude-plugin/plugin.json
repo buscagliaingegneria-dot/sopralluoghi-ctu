@@ -1,0 +1,11 @@
+{
+  "name": "multifamily-architect",
+  "version": "1.0.0-f6a524eb47d9",
+  "description": "A housing architect on the unit mix, the plate, and the core",
+  "homepage": "https://archaiflow.com/templates/agents/multifamily-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

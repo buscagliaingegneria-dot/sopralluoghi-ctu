@@ -1,0 +1,11 @@
+{
+  "name": "parti-study",
+  "version": "1.0.0-ed9a3d0558d3",
+  "description": "Find the one idea the scheme is actually organized by, and test it",
+  "homepage": "https://archaiflow.com/templates/skills/parti-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

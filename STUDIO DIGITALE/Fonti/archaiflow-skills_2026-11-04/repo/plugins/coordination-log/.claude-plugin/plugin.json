@@ -1,0 +1,11 @@
+{
+  "name": "coordination-log",
+  "version": "1.0.0-b729a0034b11",
+  "description": "Track a conflict until both sets show the same answer",
+  "homepage": "https://archaiflow.com/templates/skills/coordination-log",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "closeout-check",
+  "version": "1.0.0-8251ad9787e6",
+  "description": "Track closeout deliverables from the spec book to handover",
+  "homepage": "https://archaiflow.com/templates/skills/closeout-check",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

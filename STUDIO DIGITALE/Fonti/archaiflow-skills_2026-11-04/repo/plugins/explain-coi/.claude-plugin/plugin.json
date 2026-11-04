@@ -1,0 +1,11 @@
+{
+  "name": "explain-coi",
+  "version": "1.0.0-98ae156bd38c",
+  "description": "Explain a certificate of insurance and what it does not prove",
+  "homepage": "https://archaiflow.com/templates/commands/explain-coi",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

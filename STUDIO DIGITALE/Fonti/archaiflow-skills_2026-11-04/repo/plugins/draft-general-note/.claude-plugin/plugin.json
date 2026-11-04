@@ -1,0 +1,11 @@
+{
+  "name": "draft-general-note",
+  "version": "1.0.0-b4a17a056474",
+  "description": "Write a general note that says something, and put it on the right sheet",
+  "homepage": "https://archaiflow.com/templates/commands/draft-general-note",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

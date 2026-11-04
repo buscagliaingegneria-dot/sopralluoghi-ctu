@@ -1,0 +1,11 @@
+{
+  "name": "senior-cost-estimator",
+  "version": "1.0.0-bf869093d1ac",
+  "description": "An estimator's read on what a number is really carrying, and what it is not",
+  "homepage": "https://archaiflow.com/templates/agents/senior-cost-estimator",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

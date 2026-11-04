@@ -1,0 +1,11 @@
+{
+  "name": "decarbonization-strategist",
+  "version": "1.0.0-2f2d7a9c0206",
+  "description": "Plan a building's path to lower carbon over 5-15 years",
+  "homepage": "https://archaiflow.com/templates/skills/decarbonization-strategist",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

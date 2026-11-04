@@ -1,0 +1,11 @@
+{
+  "name": "senior-civil-engineer",
+  "version": "1.0.0-a28c629dbca5",
+  "description": "A senior civil engineer's gut-check on site and drainage",
+  "homepage": "https://archaiflow.com/templates/agents/senior-civil-engineer",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

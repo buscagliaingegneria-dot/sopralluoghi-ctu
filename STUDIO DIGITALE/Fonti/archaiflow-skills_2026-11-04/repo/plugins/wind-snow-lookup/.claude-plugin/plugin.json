@@ -1,0 +1,11 @@
+{
+  "name": "wind-snow-lookup",
+  "version": "1.0.0-bfeac55a76c6",
+  "description": "Assemble the site hazard criteria a design needs",
+  "homepage": "https://archaiflow.com/templates/skills/wind-snow-lookup",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

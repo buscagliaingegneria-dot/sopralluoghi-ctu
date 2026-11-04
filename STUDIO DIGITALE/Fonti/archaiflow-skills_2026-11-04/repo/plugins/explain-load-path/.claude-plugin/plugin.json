@@ -1,0 +1,11 @@
+{
+  "name": "explain-load-path",
+  "version": "1.0.0-6dbcc2703c1b",
+  "description": "Trace how load travels from roof to foundation",
+  "homepage": "https://archaiflow.com/templates/commands/explain-load-path",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

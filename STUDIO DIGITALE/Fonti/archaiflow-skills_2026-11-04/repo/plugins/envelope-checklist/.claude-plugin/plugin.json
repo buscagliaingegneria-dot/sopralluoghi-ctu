@@ -1,0 +1,11 @@
+{
+  "name": "envelope-checklist",
+  "version": "1.0.0-2cc045a1486a",
+  "description": "Get the envelope checklist for the phase and the assemblies you have",
+  "homepage": "https://archaiflow.com/templates/skills/envelope-checklist",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

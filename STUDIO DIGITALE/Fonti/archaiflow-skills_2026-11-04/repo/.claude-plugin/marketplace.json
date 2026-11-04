@@ -1,0 +1,1902 @@
+{
+  "name": "archaiflow",
+  "owner": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "metadata": {
+    "description": "Skills, agents and commands for architecture work. Six discipline bundles first, then every tool on its own."
+  },
+  "plugins": [
+    {
+      "name": "design-building-types",
+      "source": "./bundles/design-building-types",
+      "description": "Every Design tool in one plugin: 36 skills, 19 agents and 1 command for North American architecture practice.",
+      "version": "1.0.0-1f032482d8cc",
+      "category": "bundle"
+    },
+    {
+      "name": "code-life-safety",
+      "source": "./bundles/code-life-safety",
+      "description": "Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for North American architecture practice.",
+      "version": "1.0.0-24a3bcf965d0",
+      "category": "bundle"
+    },
+    {
+      "name": "structure-mep",
+      "source": "./bundles/structure-mep",
+      "description": "Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for North American architecture practice.",
+      "version": "1.0.0-c682f44d0f9d",
+      "category": "bundle"
+    },
+    {
+      "name": "envelope-performance",
+      "source": "./bundles/envelope-performance",
+      "description": "Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for North American architecture practice.",
+      "version": "1.0.0-cdacfa908b4c",
+      "category": "bundle"
+    },
+    {
+      "name": "construction-admin",
+      "source": "./bundles/construction-admin",
+      "description": "Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for North American architecture practice.",
+      "version": "1.0.0-2de30f4c6bfa",
+      "category": "bundle"
+    },
+    {
+      "name": "practice-contracts",
+      "source": "./bundles/practice-contracts",
+      "description": "Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for North American architecture practice.",
+      "version": "1.0.0-612dedf7d4b9",
+      "category": "bundle"
+    },
+    {
+      "name": "ada-tracker",
+      "source": "./plugins/ada-tracker",
+      "description": "Build an accessibility compliance checklist for a project",
+      "version": "1.0.0-2df8c2cdf41a",
+      "category": "skill"
+    },
+    {
+      "name": "adjacency-matrix",
+      "source": "./plugins/adjacency-matrix",
+      "description": "Build the matrix from who actually moves, not from who says they are close",
+      "version": "1.0.0-beaa2f655c24",
+      "category": "skill"
+    },
+    {
+      "name": "aec-doc-gen",
+      "source": "./plugins/aec-doc-gen",
+      "description": "Render Markdown into Word, Excel, or PDF for transmittal",
+      "version": "1.0.0-d96ebc6ac43b",
+      "category": "skill"
+    },
+    {
+      "name": "agenda-builder",
+      "source": "./plugins/agenda-builder",
+      "description": "Build the agenda around what has to be decided, not what to talk about",
+      "version": "1.0.0-e5ed10aae32d",
+      "category": "skill"
+    },
+    {
+      "name": "air-barrier-trace",
+      "source": "./plugins/air-barrier-trace",
+      "description": "Follow the air, water, vapor, and thermal layers around a section for breaks",
+      "version": "1.0.0-174e21afbd85",
+      "category": "skill"
+    },
+    {
+      "name": "airtightness-tracker",
+      "source": "./plugins/airtightness-tracker",
+      "description": "Track one airtightness target from the spec through the site to the test",
+      "version": "1.0.0-94f1541191b6",
+      "category": "skill"
+    },
+    {
+      "name": "alternative-means-builder",
+      "source": "./plugins/alternative-means-builder",
+      "description": "Make the case that an alternative meets the intent of a rule you cannot meet",
+      "version": "1.0.0-d491c8bb41c2",
+      "category": "skill"
+    },
+    {
+      "name": "applicability-check",
+      "source": "./plugins/applicability-check",
+      "description": "Work out whether a requirement applies to you before reading it",
+      "version": "1.0.0-10432f66e598",
+      "category": "skill"
+    },
+    {
+      "name": "area-measurement",
+      "source": "./plugins/area-measurement",
+      "description": "Establish which area standard governs and what actually counts in it",
+      "version": "1.0.0-5535cdd9f61d",
+      "category": "skill"
+    },
+    {
+      "name": "assembly-review",
+      "source": "./plugins/assembly-review",
+      "description": "Read an assembly somebody else built up and say what it does not do",
+      "version": "1.0.0-d675c8c713ab",
+      "category": "skill"
+    },
+    {
+      "name": "bid-review",
+      "source": "./plugins/bid-review",
+      "description": "Review contractor bids for scope, exclusions, and terms before award",
+      "version": "1.0.0-9503ebc1d660",
+      "category": "skill"
+    },
+    {
+      "name": "brief-review",
+      "source": "./plugins/brief-review",
+      "description": "Interrogate a brief for gaps, contradictions, and unstated assumptions",
+      "version": "1.0.0-25d270501755",
+      "category": "skill"
+    },
+    {
+      "name": "budget-reconciliation",
+      "source": "./plugins/budget-reconciliation",
+      "description": "Close the gap between the programme and the budget, and price what goes",
+      "version": "1.0.0-24110846efd5",
+      "category": "skill"
+    },
+    {
+      "name": "calculation-reader",
+      "source": "./plugins/calculation-reader",
+      "description": "Read an engineer's calculation for its inputs, not its arithmetic",
+      "version": "1.0.0-378e6dd416f2",
+      "category": "skill"
+    },
+    {
+      "name": "change-order-review",
+      "source": "./plugins/change-order-review",
+      "description": "Work through a change's scope, cost, and time before it is signed",
+      "version": "1.0.0-8f9dafe60b4c",
+      "category": "skill"
+    },
+    {
+      "name": "change-order-tracker",
+      "source": "./plugins/change-order-tracker",
+      "description": "Track every change from first mention to executed, including the ones that stall",
+      "version": "1.0.0-1c6ddaad9e26",
+      "category": "skill"
+    },
+    {
+      "name": "circulation-study",
+      "source": "./plugins/circulation-study",
+      "description": "Trace each journey through the plan and find where two that should not meet do",
+      "version": "1.0.0-b16c07db8066",
+      "category": "skill"
+    },
+    {
+      "name": "cite-check",
+      "source": "./plugins/cite-check",
+      "description": "Check whether a citation someone gave you is real and current",
+      "version": "1.0.0-3e446f16330f",
+      "category": "skill"
+    },
+    {
+      "name": "civil-drawing-review",
+      "source": "./plugins/civil-drawing-review",
+      "description": "Check the civil set against the architectural, in both directions",
+      "version": "1.0.0-d8a019ef922e",
+      "category": "skill"
+    },
+    {
+      "name": "client-translator",
+      "source": "./plugins/client-translator",
+      "description": "Turn technical language into client-ready wording, and back",
+      "version": "1.0.0-2e54152d5c8f",
+      "category": "skill"
+    },
+    {
+      "name": "climate-zone-mapper",
+      "source": "./plugins/climate-zone-mapper",
+      "description": "Record a site's climate zone and its envelope requirements",
+      "version": "1.0.0-dc97fe6d814d",
+      "category": "skill"
+    },
+    {
+      "name": "closeout-check",
+      "source": "./plugins/closeout-check",
+      "description": "Track closeout deliverables from the spec book to handover",
+      "version": "1.0.0-8251ad9787e6",
+      "category": "skill"
+    },
+    {
+      "name": "code-analysis-builder",
+      "source": "./plugins/code-analysis-builder",
+      "description": "Assemble the code analysis block for a cover sheet",
+      "version": "1.0.0-4a6877037df5",
+      "category": "skill"
+    },
+    {
+      "name": "code-analysis-reader",
+      "source": "./plugins/code-analysis-reader",
+      "description": "Read somebody else's code analysis for what it assumed and never showed",
+      "version": "1.0.0-29d0b3987dd4",
+      "category": "skill"
+    },
+    {
+      "name": "code-compliance-review",
+      "source": "./plugins/code-compliance-review",
+      "description": "Audit a plan across eight egress and accessibility axes",
+      "version": "1.0.0-32d1769a73e3",
+      "category": "skill"
+    },
+    {
+      "name": "code-reader",
+      "source": "./plugins/code-reader",
+      "description": "Turn a code section into the requirements it actually contains",
+      "version": "1.0.0-e6aa4098490a",
+      "category": "skill"
+    },
+    {
+      "name": "compliance-check",
+      "source": "./plugins/compliance-check",
+      "description": "Hold a drawing against code text you paste, item by item",
+      "version": "1.0.0-277b192d23b5",
+      "category": "skill"
+    },
+    {
+      "name": "condensation-check",
+      "source": "./plugins/condensation-check",
+      "description": "Trace the temperature gradient through an assembly and find the dew point",
+      "version": "1.0.0-228d3b45f01c",
+      "category": "skill"
+    },
+    {
+      "name": "constructability-review",
+      "source": "./plugins/constructability-review",
+      "description": "Read a document set through a builder's eyes",
+      "version": "1.0.0-f17d45ecfbaf",
+      "category": "skill"
+    },
+    {
+      "name": "consultant-drawing-review",
+      "source": "./plugins/consultant-drawing-review",
+      "description": "Read any consultant's drawing against the architectural set",
+      "version": "1.0.0-d1f9d7b8071c",
+      "category": "skill"
+    },
+    {
+      "name": "contract-review",
+      "source": "./plugins/contract-review",
+      "description": "Read an owner-drafted agreement for what it moves onto you",
+      "version": "1.0.0-c39f633a7081",
+      "category": "skill"
+    },
+    {
+      "name": "coordination-log",
+      "source": "./plugins/coordination-log",
+      "description": "Track a conflict until both sets show the same answer",
+      "version": "1.0.0-b729a0034b11",
+      "category": "skill"
+    },
+    {
+      "name": "cost-reader",
+      "source": "./plugins/cost-reader",
+      "description": "Read any cost document for what it excludes and what it assumed",
+      "version": "1.0.0-6799252ac41e",
+      "category": "skill"
+    },
+    {
+      "name": "curtain-wall-submittal-review",
+      "source": "./plugins/curtain-wall-submittal-review",
+      "description": "Read a curtain wall submittal for the things a general review will not catch",
+      "version": "1.0.0-2dca709a063a",
+      "category": "skill"
+    },
+    {
+      "name": "daylight-study",
+      "source": "./plugins/daylight-study",
+      "description": "Work out how deep daylight reaches into each room, and which rooms stay dark",
+      "version": "1.0.0-7328344ac059",
+      "category": "skill"
+    },
+    {
+      "name": "decarbonization-strategist",
+      "source": "./plugins/decarbonization-strategist",
+      "description": "Plan a building's path to lower carbon over 5-15 years",
+      "version": "1.0.0-2f2d7a9c0206",
+      "category": "skill"
+    },
+    {
+      "name": "delay-triage",
+      "source": "./plugins/delay-triage",
+      "description": "Work out whose delay this is before anyone writes a letter",
+      "version": "1.0.0-fc67284a3e35",
+      "category": "skill"
+    },
+    {
+      "name": "design-accessible-restroom",
+      "source": "./plugins/design-accessible-restroom",
+      "description": "Lay out an accessible restroom from clearances that overlap, not a checklist",
+      "version": "1.0.0-7536ae389587",
+      "category": "skill"
+    },
+    {
+      "name": "design-acoustic-separation",
+      "source": "./plugins/design-acoustic-separation",
+      "description": "Build a separation for sound, where the flanking path decides the result",
+      "version": "1.0.0-5760113a8b8c",
+      "category": "skill"
+    },
+    {
+      "name": "design-addition",
+      "source": "./plugins/design-addition",
+      "description": "Work out how new construction meets the building already there",
+      "version": "1.0.0-6d2eff14dff3",
+      "category": "skill"
+    },
+    {
+      "name": "design-balcony",
+      "source": "./plugins/design-balcony",
+      "description": "Carry structure, water, and insulation past the wall without losing any",
+      "version": "1.0.0-8e30f7c88ca5",
+      "category": "skill"
+    },
+    {
+      "name": "design-bathroom",
+      "source": "./plugins/design-bathroom",
+      "description": "Lay out a bathroom around the plumbing wall and the door swing",
+      "version": "1.0.0-fee7f9650723",
+      "category": "skill"
+    },
+    {
+      "name": "design-beam",
+      "source": "./plugins/design-beam",
+      "description": "Size a simply-supported beam in steel, wood, or concrete",
+      "version": "1.0.0-d2ca8a2de0b1",
+      "category": "skill"
+    },
+    {
+      "name": "design-below-grade-assembly",
+      "source": "./plugins/design-below-grade-assembly",
+      "description": "Build up a below-grade wall or slab where water comes first and drying does not",
+      "version": "1.0.0-3918eaaba90f",
+      "category": "skill"
+    },
+    {
+      "name": "design-ceiling",
+      "source": "./plugins/design-ceiling",
+      "description": "Set the ceiling height by what has to fit above it",
+      "version": "1.0.0-cf92b6048b4f",
+      "category": "skill"
+    },
+    {
+      "name": "design-column",
+      "source": "./plugins/design-column",
+      "description": "Check an axially loaded column with the values your standard gives",
+      "version": "1.0.0-4894911bf0b3",
+      "category": "skill"
+    },
+    {
+      "name": "design-core",
+      "source": "./plugins/design-core",
+      "description": "Add up the core from your own dimensions and check its share of the plate",
+      "version": "1.0.0-89b1ca44cb11",
+      "category": "skill"
+    },
+    {
+      "name": "design-critic",
+      "source": "./plugins/design-critic",
+      "description": "Get a structured critique of a design",
+      "version": "1.0.0-d2b54a1f19c2",
+      "category": "skill"
+    },
+    {
+      "name": "design-duct",
+      "source": "./plugins/design-duct",
+      "description": "Size a duct run from the airflow and the limits you set",
+      "version": "1.0.0-6dc4907695b9",
+      "category": "skill"
+    },
+    {
+      "name": "design-egress",
+      "source": "./plugins/design-egress",
+      "description": "Verify exit counts, widths, separation, and travel distance",
+      "version": "1.0.0-f74dbd79fa81",
+      "category": "skill"
+    },
+    {
+      "name": "design-electrical-room",
+      "source": "./plugins/design-electrical-room",
+      "description": "Lay out an electrical room around the clearances that cannot be built on",
+      "version": "1.0.0-c793c7132f32",
+      "category": "skill"
+    },
+    {
+      "name": "design-elevator",
+      "source": "./plugins/design-elevator",
+      "description": "Hold space for the shaft, the pit, the overrun, and the machine",
+      "version": "1.0.0-d6aaef230b8f",
+      "category": "skill"
+    },
+    {
+      "name": "design-entry",
+      "source": "./plugins/design-entry",
+      "description": "Work the entry as a sequence from the street to the second door",
+      "version": "1.0.0-3b18606bb433",
+      "category": "skill"
+    },
+    {
+      "name": "design-envelope",
+      "source": "./plugins/design-envelope",
+      "description": "Decide what each face of the building has to be, before detailing any",
+      "version": "1.0.0-e79abc10592c",
+      "category": "skill"
+    },
+    {
+      "name": "design-expansion-joint",
+      "source": "./plugins/design-expansion-joint",
+      "description": "Place movement joints and carry the control layers across a gap that moves",
+      "version": "1.0.0-11b44be9c285",
+      "category": "skill"
+    },
+    {
+      "name": "design-fire-barrier",
+      "source": "./plugins/design-fire-barrier",
+      "description": "Follow a rated assembly from floor to deck and find where the rating stops",
+      "version": "1.0.0-b02744dd53f9",
+      "category": "skill"
+    },
+    {
+      "name": "design-footing",
+      "source": "./plugins/design-footing",
+      "description": "Check a spread footing against the bearing value your report gives",
+      "version": "1.0.0-89a0e5c91600",
+      "category": "skill"
+    },
+    {
+      "name": "design-interior",
+      "source": "./plugins/design-interior",
+      "description": "Decide what the interior has to do before detailing any part of it",
+      "version": "1.0.0-4d2d29d4ac1d",
+      "category": "skill"
+    },
+    {
+      "name": "design-kitchen",
+      "source": "./plugins/design-kitchen",
+      "description": "Lay out a kitchen around the work that happens in it, and the services",
+      "version": "1.0.0-8f00466b426f",
+      "category": "skill"
+    },
+    {
+      "name": "design-mechanical-room",
+      "source": "./plugins/design-mechanical-room",
+      "description": "Size a plant room for the equipment, the air, and getting it back out again",
+      "version": "1.0.0-df93d2aeff9a",
+      "category": "skill"
+    },
+    {
+      "name": "design-millwork",
+      "source": "./plugins/design-millwork",
+      "description": "Detail built-in joinery so the shop can price it and the wall can hold it",
+      "version": "1.0.0-5213aa41e3fd",
+      "category": "skill"
+    },
+    {
+      "name": "design-narrative",
+      "source": "./plugins/design-narrative",
+      "description": "Write what the project is, for a reader who was not in the room",
+      "version": "1.0.0-af552aac47f7",
+      "category": "skill"
+    },
+    {
+      "name": "design-occupancy-load",
+      "source": "./plugins/design-occupancy-load",
+      "description": "Compute occupant load by use group and by space",
+      "version": "1.0.0-8b56c54dc913",
+      "category": "skill"
+    },
+    {
+      "name": "design-panel-load",
+      "source": "./plugins/design-panel-load",
+      "description": "Total a panel's connected load and apply your demand factors",
+      "version": "1.0.0-499024f5f2fa",
+      "category": "skill"
+    },
+    {
+      "name": "design-parapet",
+      "source": "./plugins/design-parapet",
+      "description": "Carry the wall and roof control layers around the one corner that leaks most",
+      "version": "1.0.0-d7e57917d1d1",
+      "category": "skill"
+    },
+    {
+      "name": "design-parking-layout",
+      "source": "./plugins/design-parking-layout",
+      "description": "Lay out parking around the bay, the aisle, and the ramp",
+      "version": "1.0.0-aecd667ce7f6",
+      "category": "skill"
+    },
+    {
+      "name": "design-partition",
+      "source": "./plugins/design-partition",
+      "description": "Build up an interior partition and decide where it stops",
+      "version": "1.0.0-cb7889baf588",
+      "category": "skill"
+    },
+    {
+      "name": "design-roof-assembly",
+      "source": "./plugins/design-roof-assembly",
+      "description": "Build up a roof assembly and place the control layers a roof cannot dry through",
+      "version": "1.0.0-5934b042fb7b",
+      "category": "skill"
+    },
+    {
+      "name": "design-roof-drainage",
+      "source": "./plugins/design-roof-drainage",
+      "description": "Get water off the roof, and say where it goes when a drain blocks",
+      "version": "1.0.0-b89033b61daf",
+      "category": "skill"
+    },
+    {
+      "name": "design-stair",
+      "source": "./plugins/design-stair",
+      "description": "Check a stair flight against the limits your code sets",
+      "version": "1.0.0-53721ff3b002",
+      "category": "skill"
+    },
+    {
+      "name": "design-ventilation",
+      "source": "./plugins/design-ventilation",
+      "description": "Compute zone outdoor-air rates from the table you supply",
+      "version": "1.0.0-07188143d0ba",
+      "category": "skill"
+    },
+    {
+      "name": "design-wall-assembly",
+      "source": "./plugins/design-wall-assembly",
+      "description": "Build up an exterior wall layer by layer and place its four control layers",
+      "version": "1.0.0-18aa5e5f4ad2",
+      "category": "skill"
+    },
+    {
+      "name": "design-window-perimeter",
+      "source": "./plugins/design-window-perimeter",
+      "description": "Detail a window head, jamb, and sill in the order they get installed",
+      "version": "1.0.0-3646721fcf2e",
+      "category": "skill"
+    },
+    {
+      "name": "dispute-advisor",
+      "source": "./plugins/dispute-advisor",
+      "description": "Find the next required step and notice deadline in a dispute",
+      "version": "1.0.0-c640d8bbfc61",
+      "category": "skill"
+    },
+    {
+      "name": "doc-reader",
+      "source": "./plugins/doc-reader",
+      "description": "Read and interpret a specification, report, or contract PDF",
+      "version": "1.0.0-6e080c19a1de",
+      "category": "skill"
+    },
+    {
+      "name": "document-diff",
+      "source": "./plugins/document-diff",
+      "description": "Compare two versions of a document and find what nobody mentioned",
+      "version": "1.0.0-75d9c41862be",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-checklist",
+      "source": "./plugins/drawing-checklist",
+      "description": "Get a drawing-set checklist for the phase you are in",
+      "version": "1.0.0-cce8b2023767",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-diff",
+      "source": "./plugins/drawing-diff",
+      "description": "See what changed between two drawing revisions",
+      "version": "1.0.0-bb38eed28ac8",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-log",
+      "source": "./plugins/drawing-log",
+      "description": "Track every sheet's revision and issue history in one log",
+      "version": "1.0.0-7089eb0cde97",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-reader",
+      "source": "./plugins/drawing-reader",
+      "description": "Read and interpret an architectural drawing PDF",
+      "version": "1.0.0-26978230d4c8",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-set-bookmarker",
+      "source": "./plugins/drawing-set-bookmarker",
+      "description": "Bookmark a flat drawing-set PDF and index its sheets",
+      "version": "1.0.0-d270241907cf",
+      "category": "skill"
+    },
+    {
+      "name": "drawing-standards-audit",
+      "source": "./plugins/drawing-standards-audit",
+      "description": "Sweep a set for the conventions that make it readable, not for what it shows",
+      "version": "1.0.0-996bab4f9c8a",
+      "category": "skill"
+    },
+    {
+      "name": "elevation-review",
+      "source": "./plugins/elevation-review",
+      "description": "Read an elevation for what it decides and what it flattens away",
+      "version": "1.0.0-ed030178c97a",
+      "category": "skill"
+    },
+    {
+      "name": "embodied-carbon-tracker",
+      "source": "./plugins/embodied-carbon-tracker",
+      "description": "Track embodied carbon by stage against factors you supply",
+      "version": "1.0.0-e5780e598b64",
+      "category": "skill"
+    },
+    {
+      "name": "entitlement-tracker",
+      "source": "./plugins/entitlement-tracker",
+      "description": "Track a discretionary approval from application through hearings to conditions",
+      "version": "1.0.0-8140fbddb0a8",
+      "category": "skill"
+    },
+    {
+      "name": "envelope-checklist",
+      "source": "./plugins/envelope-checklist",
+      "description": "Get the envelope checklist for the phase and the assemblies you have",
+      "version": "1.0.0-2cc045a1486a",
+      "category": "skill"
+    },
+    {
+      "name": "envelope-diff",
+      "source": "./plugins/envelope-diff",
+      "description": "Compare two versions of an assembly or a detail and price the change",
+      "version": "1.0.0-095d3ab0be87",
+      "category": "skill"
+    },
+    {
+      "name": "equipment-reader",
+      "source": "./plugins/equipment-reader",
+      "description": "Read a cut sheet for what the building has to give the equipment",
+      "version": "1.0.0-4d63eaa343df",
+      "category": "skill"
+    },
+    {
+      "name": "existing-conditions-survey",
+      "source": "./plugins/existing-conditions-survey",
+      "description": "Record what is actually there, and mark what you did not verify",
+      "version": "1.0.0-64ed7ad74ecb",
+      "category": "skill"
+    },
+    {
+      "name": "facade-access-study",
+      "source": "./plugins/facade-access-study",
+      "description": "Work out how every face of the envelope gets reached, cleaned, and replaced",
+      "version": "1.0.0-404da89e550d",
+      "category": "skill"
+    },
+    {
+      "name": "facade-module",
+      "source": "./plugins/facade-module",
+      "description": "Divide an elevation into panels and lay out the leftover, option by option",
+      "version": "1.0.0-8b4b225ccad2",
+      "category": "skill"
+    },
+    {
+      "name": "fee-estimator",
+      "source": "./plugins/fee-estimator",
+      "description": "Estimate a design fee four ways and split it by phase",
+      "version": "1.0.0-904f247f0a3d",
+      "category": "skill"
+    },
+    {
+      "name": "fee-tracker",
+      "source": "./plugins/fee-tracker",
+      "description": "Track earned fee against billed, invoice by invoice",
+      "version": "1.0.0-6d8e88711e22",
+      "category": "skill"
+    },
+    {
+      "name": "file-organizer",
+      "source": "./plugins/file-organizer",
+      "description": "Sort a messy folder into a taxonomy you approve first",
+      "version": "1.0.0-72cd12979e58",
+      "category": "skill"
+    },
+    {
+      "name": "fit-out-study",
+      "source": "./plugins/fit-out-study",
+      "description": "Fit a programme into a shell somebody else built",
+      "version": "1.0.0-01041937a59c",
+      "category": "skill"
+    },
+    {
+      "name": "geotech-report-review",
+      "source": "./plugins/geotech-report-review",
+      "description": "Read a soils report for what it commits you to",
+      "version": "1.0.0-d5a5245b5ae9",
+      "category": "skill"
+    },
+    {
+      "name": "go-no-go-review",
+      "source": "./plugins/go-no-go-review",
+      "description": "Score a pursuit before it costs you, on the things that actually predict",
+      "version": "1.0.0-e91d3f1bc8cb",
+      "category": "skill"
+    },
+    {
+      "name": "insurance-advisor",
+      "source": "./plugins/insurance-advisor",
+      "description": "Recommend policy types, limits, and a wrap-up structure",
+      "version": "1.0.0-77065703442f",
+      "category": "skill"
+    },
+    {
+      "name": "jurisdiction-profile",
+      "source": "./plugins/jurisdiction-profile",
+      "description": "Record your code's limits once, with citations, and reuse them",
+      "version": "1.0.0-b5f02294cbb3",
+      "category": "skill"
+    },
+    {
+      "name": "leak-triage",
+      "source": "./plugins/leak-triage",
+      "description": "Find out which water this is before anyone opens anything up",
+      "version": "1.0.0-cbd76185213f",
+      "category": "skill"
+    },
+    {
+      "name": "leed-tracker",
+      "source": "./plugins/leed-tracker",
+      "description": "Score a project scorecard and predict its certification level",
+      "version": "1.0.0-494e090fd101",
+      "category": "skill"
+    },
+    {
+      "name": "lessons-learned",
+      "source": "./plugins/lessons-learned",
+      "description": "Record what a project taught you, and read it back next time",
+      "version": "1.0.0-26577edd1387",
+      "category": "skill"
+    },
+    {
+      "name": "markup-reader",
+      "source": "./plugins/markup-reader",
+      "description": "Read a marked-up drawing and turn it into a list somebody can act on",
+      "version": "1.0.0-f3eadd1e9b6a",
+      "category": "skill"
+    },
+    {
+      "name": "meeting-notes-cleaner",
+      "source": "./plugins/meeting-notes-cleaner",
+      "description": "Turn raw meeting notes into structured action items",
+      "version": "1.0.0-917e692d1d77",
+      "category": "skill"
+    },
+    {
+      "name": "mep-review",
+      "source": "./plugins/mep-review",
+      "description": "Read an MEP set for space, routing, and coordination conflicts",
+      "version": "1.0.0-74a548634ab4",
+      "category": "skill"
+    },
+    {
+      "name": "minutes-reader",
+      "source": "./plugins/minutes-reader",
+      "description": "Read somebody else's minutes for what they recorded about you",
+      "version": "1.0.0-0dcc33552105",
+      "category": "skill"
+    },
+    {
+      "name": "mockup-review",
+      "source": "./plugins/mockup-review",
+      "description": "Review a built mockup against what the documents actually asked for",
+      "version": "1.0.0-c75ffae0a7ea",
+      "category": "skill"
+    },
+    {
+      "name": "model-health-audit",
+      "source": "./plugins/model-health-audit",
+      "description": "Audit a BIM model for the habits that make it slow, wrong, or unshareable",
+      "version": "1.0.0-69650d4610a1",
+      "category": "skill"
+    },
+    {
+      "name": "nyc-zoning-lookup",
+      "source": "./plugins/nyc-zoning-lookup",
+      "description": "Answer NYC zoning questions with citations",
+      "version": "1.0.0-b45c4eee4e9d",
+      "category": "skill"
+    },
+    {
+      "name": "option-compare",
+      "source": "./plugins/option-compare",
+      "description": "Build a side-by-side comparison of design options for a decision",
+      "version": "1.0.0-8a894e3e1b0d",
+      "category": "skill"
+    },
+    {
+      "name": "parti-study",
+      "source": "./plugins/parti-study",
+      "description": "Find the one idea the scheme is actually organized by, and test it",
+      "version": "1.0.0-ed9a3d0558d3",
+      "category": "skill"
+    },
+    {
+      "name": "passive-house-tracker",
+      "source": "./plugins/passive-house-tracker",
+      "description": "Track modeled performance against certification thresholds",
+      "version": "1.0.0-2678b700ee88",
+      "category": "skill"
+    },
+    {
+      "name": "penetration-review",
+      "source": "./plugins/penetration-review",
+      "description": "Find every hole through an assembly and say what closes it, and to what",
+      "version": "1.0.0-760afde35512",
+      "category": "skill"
+    },
+    {
+      "name": "permit-tracker",
+      "source": "./plugins/permit-tracker",
+      "description": "Keep one dated record of every permit, review and inspection a project needs",
+      "version": "1.0.0-f5e3a05fbe56",
+      "category": "skill"
+    },
+    {
+      "name": "phasing-study",
+      "source": "./plugins/phasing-study",
+      "description": "Plan construction phases around a building that stays open through them",
+      "version": "1.0.0-522b65c15fd7",
+      "category": "skill"
+    },
+    {
+      "name": "photo-reader",
+      "source": "./plugins/photo-reader",
+      "description": "Read a photograph for what it shows and what it cannot show",
+      "version": "1.0.0-b5f878f7c01b",
+      "category": "skill"
+    },
+    {
+      "name": "pipeline-tracker",
+      "source": "./plugins/pipeline-tracker",
+      "description": "Track every pursuit from first whisper to won or lost, and what each cost",
+      "version": "1.0.0-aba377b89118",
+      "category": "skill"
+    },
+    {
+      "name": "plan-check-response-builder",
+      "source": "./plugins/plan-check-response-builder",
+      "description": "Turn a reviewer's comments into a matrix that answers each one on the record",
+      "version": "1.0.0-b6f83398a77c",
+      "category": "skill"
+    },
+    {
+      "name": "plan-review",
+      "source": "./plugins/plan-review",
+      "description": "Read a plan for what is on it, what is missing, and what it implies",
+      "version": "1.0.0-ac635d982a15",
+      "category": "skill"
+    },
+    {
+      "name": "post-occupancy-evaluation",
+      "source": "./plugins/post-occupancy-evaluation",
+      "description": "Find out how the building is actually used, and tell someone",
+      "version": "1.0.0-e31b6794e145",
+      "category": "skill"
+    },
+    {
+      "name": "precedent-critique",
+      "source": "./plugins/precedent-critique",
+      "description": "Critique your scheme through lenses drawn from precedents you supply",
+      "version": "1.0.0-806dc7ca5a75",
+      "category": "skill"
+    },
+    {
+      "name": "precedent-finder",
+      "source": "./plugins/precedent-finder",
+      "description": "Find architectural precedents for a concept or condition",
+      "version": "1.0.0-091ca04394c5",
+      "category": "skill"
+    },
+    {
+      "name": "program-reader",
+      "source": "./plugins/program-reader",
+      "description": "Read a brief or programme document for what its numbers rest on",
+      "version": "1.0.0-eb1eff408a44",
+      "category": "skill"
+    },
+    {
+      "name": "project-tracker",
+      "source": "./plugins/project-tracker",
+      "description": "Keep issues, decisions, risks, and action items in one dated log",
+      "version": "1.0.0-22be9bab6046",
+      "category": "skill"
+    },
+    {
+      "name": "project-website-builder",
+      "source": "./plugins/project-website-builder",
+      "description": "Turn a project PDF or images into one web page you can send as a link",
+      "version": "1.0.0-108792f3cacd",
+      "category": "skill"
+    },
+    {
+      "name": "punch-list",
+      "source": "./plugins/punch-list",
+      "description": "Keep a punch list with location, trade, owner, and status per item",
+      "version": "1.0.0-e67dc92516eb",
+      "category": "skill"
+    },
+    {
+      "name": "rfi-tracker",
+      "source": "./plugins/rfi-tracker",
+      "description": "Keep the RFI log, and watch the pattern the individual answers hide",
+      "version": "1.0.0-d0384daedcb7",
+      "category": "skill"
+    },
+    {
+      "name": "rfi-writer",
+      "source": "./plugins/rfi-writer",
+      "description": "Turn a site question into a filed, formal RFI",
+      "version": "1.0.0-c61eec844975",
+      "category": "skill"
+    },
+    {
+      "name": "rfp-response-builder",
+      "source": "./plugins/rfp-response-builder",
+      "description": "Build a response that answers what was asked, in their order",
+      "version": "1.0.0-fd0ca63ad89b",
+      "category": "skill"
+    },
+    {
+      "name": "schedule-builder",
+      "source": "./plugins/schedule-builder",
+      "description": "Build a door, window, finish, or room schedule that the drawings can survive",
+      "version": "1.0.0-80cead0b40c7",
+      "category": "skill"
+    },
+    {
+      "name": "schedule-extractor",
+      "source": "./plugins/schedule-extractor",
+      "description": "Pull door, window, and finish schedules out of a PDF into CSV",
+      "version": "1.0.0-b6ef881c8062",
+      "category": "skill"
+    },
+    {
+      "name": "schedule-reader",
+      "source": "./plugins/schedule-reader",
+      "description": "Read an engineer's schedule for what it means to the architecture",
+      "version": "1.0.0-a149ce58c192",
+      "category": "skill"
+    },
+    {
+      "name": "schedule-review",
+      "source": "./plugins/schedule-review",
+      "description": "Read a contractor's schedule for what it assumes about you",
+      "version": "1.0.0-6926c5e148a3",
+      "category": "skill"
+    },
+    {
+      "name": "section-review",
+      "source": "./plugins/section-review",
+      "description": "Read a section for what it resolves and what it draws around",
+      "version": "1.0.0-91a92b68da16",
+      "category": "skill"
+    },
+    {
+      "name": "security-design-review",
+      "source": "./plugins/security-design-review",
+      "description": "Read a plan for how it will be misused, not for what it is called",
+      "version": "1.0.0-fb2a28c38cdd",
+      "category": "skill"
+    },
+    {
+      "name": "seismic-lookup",
+      "source": "./plugins/seismic-lookup",
+      "description": "Record a site's seismic design parameters and where each came from",
+      "version": "1.0.0-19bfb7b55775",
+      "category": "skill"
+    },
+    {
+      "name": "set-reader",
+      "source": "./plugins/set-reader",
+      "description": "Read a whole drawing set and say what kind of set it is",
+      "version": "1.0.0-df2100a21d04",
+      "category": "skill"
+    },
+    {
+      "name": "sf330-builder",
+      "source": "./plugins/sf330-builder",
+      "description": "Assemble an SF330 with the project sheets that actually match the scope",
+      "version": "1.0.0-cc29902a57d6",
+      "category": "skill"
+    },
+    {
+      "name": "shadow-study",
+      "source": "./plugins/shadow-study",
+      "description": "Compute sun angles and shadow reach for a massing, date, and place",
+      "version": "1.0.0-7b1170648d83",
+      "category": "skill"
+    },
+    {
+      "name": "site-access-study",
+      "source": "./plugins/site-access-study",
+      "description": "Work out how vehicles, services, and fire access reach the site",
+      "version": "1.0.0-d0c32707f4a0",
+      "category": "skill"
+    },
+    {
+      "name": "site-analysis",
+      "source": "./plugins/site-analysis",
+      "description": "Read a site for what it decides, before anything is drawn on it",
+      "version": "1.0.0-4cff62ced9d5",
+      "category": "skill"
+    },
+    {
+      "name": "sketch-reader",
+      "source": "./plugins/sketch-reader",
+      "description": "Read a sketch, an image, or a model view and say what it commits to",
+      "version": "1.0.0-09d5e25ab75b",
+      "category": "skill"
+    },
+    {
+      "name": "space-program",
+      "source": "./plugins/space-program",
+      "description": "Track the room list, target areas, and designed areas as they move",
+      "version": "1.0.0-49acb8ab50f6",
+      "category": "skill"
+    },
+    {
+      "name": "spec-outline-builder",
+      "source": "./plugins/spec-outline-builder",
+      "description": "Build the section list this project needs from the drawings it has",
+      "version": "1.0.0-357c8b884341",
+      "category": "skill"
+    },
+    {
+      "name": "spec-review",
+      "source": "./plugins/spec-review",
+      "description": "Audit a spec book for gaps and drawing coordination",
+      "version": "1.0.0-46cf7e5dc1cc",
+      "category": "skill"
+    },
+    {
+      "name": "stacking-diagram",
+      "source": "./plugins/stacking-diagram",
+      "description": "Stack the programme against what the floor plate and the core will actually take",
+      "version": "1.0.0-e0e35d9847d3",
+      "category": "skill"
+    },
+    {
+      "name": "stakeholder-map",
+      "source": "./plugins/stakeholder-map",
+      "description": "Map who decides what, and who talks to whom",
+      "version": "1.0.0-44a84b17ae34",
+      "category": "skill"
+    },
+    {
+      "name": "standard-reader",
+      "source": "./plugins/standard-reader",
+      "description": "Read a referenced standard for what it covers and what it does not",
+      "version": "1.0.0-248183cdd454",
+      "category": "skill"
+    },
+    {
+      "name": "start-the-project",
+      "source": "./plugins/start-the-project",
+      "description": "Settle what has to be decided now, and what can wait",
+      "version": "1.0.0-b185a37445dd",
+      "category": "skill"
+    },
+    {
+      "name": "structural-drawing-review",
+      "source": "./plugins/structural-drawing-review",
+      "description": "Read a structural set against the architectural, from the architect's side",
+      "version": "1.0.0-8983b4dc123a",
+      "category": "skill"
+    },
+    {
+      "name": "subconsultant-agreement-review",
+      "source": "./plugins/subconsultant-agreement-review",
+      "description": "Check that your subconsultant agreements match what you promised the owner",
+      "version": "1.0.0-9c1d788e3ca1",
+      "category": "skill"
+    },
+    {
+      "name": "submission-reader",
+      "source": "./plugins/submission-reader",
+      "description": "Read what an authority sent back and say what it actually requires",
+      "version": "1.0.0-d17729bf2c74",
+      "category": "skill"
+    },
+    {
+      "name": "submittal-log-builder",
+      "source": "./plugins/submittal-log-builder",
+      "description": "Build a submittal log from the spec book",
+      "version": "1.0.0-d0f6d240ed71",
+      "category": "skill"
+    },
+    {
+      "name": "submittal-review",
+      "source": "./plugins/submittal-review",
+      "description": "Review a shop drawing or product data against the documents",
+      "version": "1.0.0-3d349c9132a7",
+      "category": "skill"
+    },
+    {
+      "name": "survey-review",
+      "source": "./plugins/survey-review",
+      "description": "Read a survey for what it does not say, before you design against it",
+      "version": "1.0.0-7bb315fd3202",
+      "category": "skill"
+    },
+    {
+      "name": "test-fit",
+      "source": "./plugins/test-fit",
+      "description": "Run the arithmetic on what fits a site under your limits",
+      "version": "1.0.0-fd4c8117651f",
+      "category": "skill"
+    },
+    {
+      "name": "thread-reader",
+      "source": "./plugins/thread-reader",
+      "description": "Read an email or message thread for what was actually decided",
+      "version": "1.0.0-cb18c843e058",
+      "category": "skill"
+    },
+    {
+      "name": "utilization-tracker",
+      "source": "./plugins/utilization-tracker",
+      "description": "Track hours against fee by phase, and see the overrun while it is small",
+      "version": "1.0.0-9801a7b4f498",
+      "category": "skill"
+    },
+    {
+      "name": "value-engineering-advisor",
+      "source": "./plugins/value-engineering-advisor",
+      "description": "Sort a cost-cutting list into accept, alternate, and block",
+      "version": "1.0.0-0ac3bd7985d0",
+      "category": "skill"
+    },
+    {
+      "name": "variance-request-builder",
+      "source": "./plugins/variance-request-builder",
+      "description": "Build the case for a variance against the findings the board has to make",
+      "version": "1.0.0-9c7842275ded",
+      "category": "skill"
+    },
+    {
+      "name": "view-analysis",
+      "source": "./plugins/view-analysis",
+      "description": "Work out what each room sees, and what protects it",
+      "version": "1.0.0-11bb6547262b",
+      "category": "skill"
+    },
+    {
+      "name": "wind-snow-lookup",
+      "source": "./plugins/wind-snow-lookup",
+      "description": "Assemble the site hazard criteria a design needs",
+      "version": "1.0.0-bfeac55a76c6",
+      "category": "skill"
+    },
+    {
+      "name": "zoning-summary",
+      "source": "./plugins/zoning-summary",
+      "description": "Turn a parcel lookup into a zoning summary for early design",
+      "version": "1.0.0-a056c873d1b2",
+      "category": "skill"
+    },
+    {
+      "name": "accessibility-specialist",
+      "source": "./plugins/accessibility-specialist",
+      "description": "An accessibility read on the journey, not the checklist of compliant items",
+      "version": "1.0.0-e7b5429aacf8",
+      "category": "agent"
+    },
+    {
+      "name": "adaptive-reuse-architect",
+      "source": "./plugins/adaptive-reuse-architect",
+      "description": "A reuse architect on what the building allows, and what it costs to find out",
+      "version": "1.0.0-2ac347ab5ddb",
+      "category": "agent"
+    },
+    {
+      "name": "architect-of-record",
+      "source": "./plugins/architect-of-record",
+      "description": "A licensed architect's read on what you are about to seal",
+      "version": "1.0.0-b50b937b8786",
+      "category": "agent"
+    },
+    {
+      "name": "bim-architect",
+      "source": "./plugins/bim-architect",
+      "description": "A BIM lead's read on a model, family, or execution plan",
+      "version": "1.0.0-05f278c37d0b",
+      "category": "agent"
+    },
+    {
+      "name": "civic-architect",
+      "source": "./plugins/civic-architect",
+      "description": "A civic architect's read on a government building",
+      "version": "1.0.0-86dedbec7de0",
+      "category": "agent"
+    },
+    {
+      "name": "construction-attorney",
+      "source": "./plugins/construction-attorney",
+      "description": "A construction lawyer's read on a contract or claim",
+      "version": "1.0.0-b0262cacb494",
+      "category": "agent"
+    },
+    {
+      "name": "doc-finder",
+      "source": "./plugins/doc-finder",
+      "description": "Find an answer in your own files, with a citation",
+      "version": "1.0.0-fc16038519be",
+      "category": "agent"
+    },
+    {
+      "name": "enclosure-architect",
+      "source": "./plugins/enclosure-architect",
+      "description": "An enclosure architect's read on a wall, roof, or window detail",
+      "version": "1.0.0-7808edf43216",
+      "category": "agent"
+    },
+    {
+      "name": "energy-modeler",
+      "source": "./plugins/energy-modeler",
+      "description": "An energy modeler's read on a performance model",
+      "version": "1.0.0-e3bcba129f39",
+      "category": "agent"
+    },
+    {
+      "name": "healthcare-architect",
+      "source": "./plugins/healthcare-architect",
+      "description": "A healthcare architect's read on a hospital or clinic plan",
+      "version": "1.0.0-ebc52397f02a",
+      "category": "agent"
+    },
+    {
+      "name": "higher-education-architect",
+      "source": "./plugins/higher-education-architect",
+      "description": "A campus architect's read on a university project",
+      "version": "1.0.0-1ea30be3c88c",
+      "category": "agent"
+    },
+    {
+      "name": "historic-preservation-architect",
+      "source": "./plugins/historic-preservation-architect",
+      "description": "A preservation architect's read on work to a historic building",
+      "version": "1.0.0-4c7fd3e058ba",
+      "category": "agent"
+    },
+    {
+      "name": "hospitality-architect",
+      "source": "./plugins/hospitality-architect",
+      "description": "A hotel architect on the guest sequence, key count, and back of house",
+      "version": "1.0.0-3dd9fd14b9e3",
+      "category": "agent"
+    },
+    {
+      "name": "industrial-architect",
+      "source": "./plugins/industrial-architect",
+      "description": "An industrial architect on the clear span, the dock, and the yard",
+      "version": "1.0.0-bf6763a8ad09",
+      "category": "agent"
+    },
+    {
+      "name": "interior-architect",
+      "source": "./plugins/interior-architect",
+      "description": "An interior architect's read on finishes, partitions, and millwork",
+      "version": "1.0.0-8fef1f57d5e3",
+      "category": "agent"
+    },
+    {
+      "name": "k12-architect",
+      "source": "./plugins/k12-architect",
+      "description": "A K-12 architect's read on a school plan",
+      "version": "1.0.0-1f5bbb60bd97",
+      "category": "agent"
+    },
+    {
+      "name": "lab-architect",
+      "source": "./plugins/lab-architect",
+      "description": "A lab architect on the module, the services, and what the science needs",
+      "version": "1.0.0-67bf223bfaf6",
+      "category": "agent"
+    },
+    {
+      "name": "landscape-architect",
+      "source": "./plugins/landscape-architect",
+      "description": "A landscape architect's read on site, grading, and planting",
+      "version": "1.0.0-75f913fc78cd",
+      "category": "agent"
+    },
+    {
+      "name": "library-architect",
+      "source": "./plugins/library-architect",
+      "description": "A library architect on a building type that changed under everyone",
+      "version": "1.0.0-806d537130b0",
+      "category": "agent"
+    },
+    {
+      "name": "multifamily-architect",
+      "source": "./plugins/multifamily-architect",
+      "description": "A housing architect on the unit mix, the plate, and the core",
+      "version": "1.0.0-f6a524eb47d9",
+      "category": "agent"
+    },
+    {
+      "name": "owner-representative",
+      "source": "./plugins/owner-representative",
+      "description": "Reads your recommendation the way the person paying for it will",
+      "version": "1.0.0-fceaa9924414",
+      "category": "agent"
+    },
+    {
+      "name": "permit-expeditor",
+      "source": "./plugins/permit-expeditor",
+      "description": "Plans the route through the building department, and unsticks a stalled one",
+      "version": "1.0.0-0672d3aeb5d1",
+      "category": "agent"
+    },
+    {
+      "name": "residential-architect",
+      "source": "./plugins/residential-architect",
+      "description": "A custom-home architect on the site, the plan, and the budget not yet said",
+      "version": "1.0.0-38040ec66f52",
+      "category": "agent"
+    },
+    {
+      "name": "restaurant-architect",
+      "source": "./plugins/restaurant-architect",
+      "description": "A restaurant architect on the kitchen, the covers, and the queue",
+      "version": "1.0.0-dfb71e85a18d",
+      "category": "agent"
+    },
+    {
+      "name": "retail-architect",
+      "source": "./plugins/retail-architect",
+      "description": "A retail architect on the frontage, the flow, and the landlord's rules",
+      "version": "1.0.0-46c8e6c78501",
+      "category": "agent"
+    },
+    {
+      "name": "senior-acoustic-engineer",
+      "source": "./plugins/senior-acoustic-engineer",
+      "description": "An acoustician's gut-check on an assembly or noise study",
+      "version": "1.0.0-718b2aa7087e",
+      "category": "agent"
+    },
+    {
+      "name": "senior-architect",
+      "source": "./plugins/senior-architect",
+      "description": "A 25-year architect's gut-check on what will break the project",
+      "version": "1.0.0-4ae365fdc6d8",
+      "category": "agent"
+    },
+    {
+      "name": "senior-civil-engineer",
+      "source": "./plugins/senior-civil-engineer",
+      "description": "A senior civil engineer's gut-check on site and drainage",
+      "version": "1.0.0-a28c629dbca5",
+      "category": "agent"
+    },
+    {
+      "name": "senior-code-consultant",
+      "source": "./plugins/senior-code-consultant",
+      "description": "A code consultant's read on which compliance path this building should take",
+      "version": "1.0.0-966012aebe1d",
+      "category": "agent"
+    },
+    {
+      "name": "senior-commissioning-consultant",
+      "source": "./plugins/senior-commissioning-consultant",
+      "description": "A commissioning agent on whether the building will do what the drawings claim",
+      "version": "1.0.0-24f51053740f",
+      "category": "agent"
+    },
+    {
+      "name": "senior-contractor",
+      "source": "./plugins/senior-contractor",
+      "description": "A senior builder's gut-check on a package before it goes out",
+      "version": "1.0.0-ff3278a967a4",
+      "category": "agent"
+    },
+    {
+      "name": "senior-cost-estimator",
+      "source": "./plugins/senior-cost-estimator",
+      "description": "An estimator's read on what a number is really carrying, and what it is not",
+      "version": "1.0.0-bf869093d1ac",
+      "category": "agent"
+    },
+    {
+      "name": "senior-elevator-consultant",
+      "source": "./plugins/senior-elevator-consultant",
+      "description": "A vertical transportation consultant on whether the cars and the shafts work",
+      "version": "1.0.0-5b90b6348682",
+      "category": "agent"
+    },
+    {
+      "name": "senior-fire-protection-engineer",
+      "source": "./plugins/senior-fire-protection-engineer",
+      "description": "A fire-protection engineer's gut-check on sprinkler and alarm design",
+      "version": "1.0.0-6cdcbb3a8811",
+      "category": "agent"
+    },
+    {
+      "name": "senior-geotechnical-engineer",
+      "source": "./plugins/senior-geotechnical-engineer",
+      "description": "A geotechnical engineer's gut-check on a soils report",
+      "version": "1.0.0-a1894db2002e",
+      "category": "agent"
+    },
+    {
+      "name": "senior-lighting-consultant",
+      "source": "./plugins/senior-lighting-consultant",
+      "description": "A lighting designer on what the space will look like, not what it measures",
+      "version": "1.0.0-28c761c611d3",
+      "category": "agent"
+    },
+    {
+      "name": "senior-living-architect",
+      "source": "./plugins/senior-living-architect",
+      "description": "A senior-living architect's read on an aging-care project",
+      "version": "1.0.0-c6a607f8f6fd",
+      "category": "agent"
+    },
+    {
+      "name": "senior-mep-engineer",
+      "source": "./plugins/senior-mep-engineer",
+      "description": "A senior MEP engineer's gut-check on drawings and schedules",
+      "version": "1.0.0-0b8cf5c908f6",
+      "category": "agent"
+    },
+    {
+      "name": "senior-plan-examiner",
+      "source": "./plugins/senior-plan-examiner",
+      "description": "Reads your set the way the person who can reject it will read it",
+      "version": "1.0.0-6730099e0935",
+      "category": "agent"
+    },
+    {
+      "name": "senior-scheduler",
+      "source": "./plugins/senior-scheduler",
+      "description": "A planner's read on what actually controls the date, and who controls it",
+      "version": "1.0.0-af1903579215",
+      "category": "agent"
+    },
+    {
+      "name": "senior-specifications-consultant",
+      "source": "./plugins/senior-specifications-consultant",
+      "description": "A spec writer on how the words read to someone looking for room to move",
+      "version": "1.0.0-db8dc2b55416",
+      "category": "agent"
+    },
+    {
+      "name": "senior-structural-engineer",
+      "source": "./plugins/senior-structural-engineer",
+      "description": "A senior structural engineer's gut-check on load path and lateral",
+      "version": "1.0.0-cea354655ca3",
+      "category": "agent"
+    },
+    {
+      "name": "senior-traffic-engineer",
+      "source": "./plugins/senior-traffic-engineer",
+      "description": "A traffic engineer on access, trips, and what the study will conclude",
+      "version": "1.0.0-2346da40c7a4",
+      "category": "agent"
+    },
+    {
+      "name": "senior-waterproofing-consultant",
+      "source": "./plugins/senior-waterproofing-consultant",
+      "description": "A waterproofing consultant's read on anything that has to stay dry and buried",
+      "version": "1.0.0-da539f3fc1de",
+      "category": "agent"
+    },
+    {
+      "name": "sports-recreation-architect",
+      "source": "./plugins/sports-recreation-architect",
+      "description": "A recreation architect on the wet side, the dry side, and the noise",
+      "version": "1.0.0-eb059060ee5e",
+      "category": "agent"
+    },
+    {
+      "name": "urban-designer",
+      "source": "./plugins/urban-designer",
+      "description": "An urban designer's read on a master plan or public realm",
+      "version": "1.0.0-00b176015113",
+      "category": "agent"
+    },
+    {
+      "name": "workplace-architect",
+      "source": "./plugins/workplace-architect",
+      "description": "A workplace architect on density, the core, and how people actually work",
+      "version": "1.0.0-d7f9faede451",
+      "category": "agent"
+    },
+    {
+      "name": "compare-assembly",
+      "source": "./plugins/compare-assembly",
+      "description": "Put two or more envelope build-ups side by side on criteria you name",
+      "version": "1.0.0-cb6bbc7c9f40",
+      "category": "command"
+    },
+    {
+      "name": "compare-structural-system",
+      "source": "./plugins/compare-structural-system",
+      "description": "Put structural systems side by side on what each does to the architecture",
+      "version": "1.0.0-bc0731e750e5",
+      "category": "command"
+    },
+    {
+      "name": "count-loading-berths",
+      "source": "./plugins/count-loading-berths",
+      "description": "Work out required loading berths from the table you supply",
+      "version": "1.0.0-1d332add70fa",
+      "category": "command"
+    },
+    {
+      "name": "count-plumbing-fixtures",
+      "source": "./plugins/count-plumbing-fixtures",
+      "description": "Work out required fixture counts from the table you supply",
+      "version": "1.0.0-8dc71b3d65d2",
+      "category": "command"
+    },
+    {
+      "name": "create-site-visit-report",
+      "source": "./plugins/create-site-visit-report",
+      "description": "Write a field observation report with photos",
+      "version": "1.0.0-c8d3476664a4",
+      "category": "command"
+    },
+    {
+      "name": "create-transmittal",
+      "source": "./plugins/create-transmittal",
+      "description": "Make a cover sheet for a document package",
+      "version": "1.0.0-cf8dd359a035",
+      "category": "command"
+    },
+    {
+      "name": "draft-additional-services",
+      "source": "./plugins/draft-additional-services",
+      "description": "Draft an additional services request before the work is done, not after",
+      "version": "1.0.0-bba3c5060d92",
+      "category": "command"
+    },
+    {
+      "name": "draft-asi",
+      "source": "./plugins/draft-asi",
+      "description": "Instruct the contractor without changing cost or time",
+      "version": "1.0.0-00a71bc69369",
+      "category": "command"
+    },
+    {
+      "name": "draft-bulletin",
+      "source": "./plugins/draft-bulletin",
+      "description": "Write a cover letter for a bulletin or addendum",
+      "version": "1.0.0-ad5f2ca9409b",
+      "category": "command"
+    },
+    {
+      "name": "draft-callout",
+      "source": "./plugins/draft-callout",
+      "description": "Write the text inside a drawing callout",
+      "version": "1.0.0-14f8dbff14d7",
+      "category": "command"
+    },
+    {
+      "name": "draft-ccd",
+      "source": "./plugins/draft-ccd",
+      "description": "Direct a change before cost and time are agreed",
+      "version": "1.0.0-8bf0b8b59d28",
+      "category": "command"
+    },
+    {
+      "name": "draft-email",
+      "source": "./plugins/draft-email",
+      "description": "Write the project email, and check whether it should be an email at all",
+      "version": "1.0.0-0017f5f322fe",
+      "category": "command"
+    },
+    {
+      "name": "draft-general-note",
+      "source": "./plugins/draft-general-note",
+      "description": "Write a general note that says something, and put it on the right sheet",
+      "version": "1.0.0-b4a17a056474",
+      "category": "command"
+    },
+    {
+      "name": "draft-letter",
+      "source": "./plugins/draft-letter",
+      "description": "Write a letter to the building department",
+      "version": "1.0.0-aff64668c2be",
+      "category": "command"
+    },
+    {
+      "name": "draft-payment-application",
+      "source": "./plugins/draft-payment-application",
+      "description": "Draft a contractor payment application",
+      "version": "1.0.0-5bcb679e2d96",
+      "category": "command"
+    },
+    {
+      "name": "draft-proposal",
+      "source": "./plugins/draft-proposal",
+      "description": "Draft a fee proposal that says what is not included",
+      "version": "1.0.0-fb7343d2d1f4",
+      "category": "command"
+    },
+    {
+      "name": "draft-rfi-response",
+      "source": "./plugins/draft-rfi-response",
+      "description": "Answer an RFI without giving away scope, cost, or time",
+      "version": "1.0.0-eea159441b6f",
+      "category": "command"
+    },
+    {
+      "name": "draft-spec-snippet",
+      "source": "./plugins/draft-spec-snippet",
+      "description": "Write a product paragraph for a spec section",
+      "version": "1.0.0-0a78d14832cc",
+      "category": "command"
+    },
+    {
+      "name": "draft-substantial-completion",
+      "source": "./plugins/draft-substantial-completion",
+      "description": "Draft the certificate, and check whether the date it claims is real",
+      "version": "1.0.0-cc5cafc3022d",
+      "category": "command"
+    },
+    {
+      "name": "explain-aia",
+      "source": "./plugins/explain-aia",
+      "description": "Read a contract clause from all three sides",
+      "version": "1.0.0-bfd59affb904",
+      "category": "command"
+    },
+    {
+      "name": "explain-bid",
+      "source": "./plugins/explain-bid",
+      "description": "Separate real costs from risk-shifting in bid language",
+      "version": "1.0.0-2b7df3618970",
+      "category": "command"
+    },
+    {
+      "name": "explain-code",
+      "source": "./plugins/explain-code",
+      "description": "Put a code section in plain English",
+      "version": "1.0.0-da5ac1de23a8",
+      "category": "command"
+    },
+    {
+      "name": "explain-coi",
+      "source": "./plugins/explain-coi",
+      "description": "Explain a certificate of insurance and what it does not prove",
+      "version": "1.0.0-98ae156bd38c",
+      "category": "command"
+    },
+    {
+      "name": "explain-drawing",
+      "source": "./plugins/explain-drawing",
+      "description": "Explain a detail, callout, or section in plain English",
+      "version": "1.0.0-37440badc222",
+      "category": "command"
+    },
+    {
+      "name": "explain-easement",
+      "source": "./plugins/explain-easement",
+      "description": "Explain what an easement on your survey does to what you can build",
+      "version": "1.0.0-913c08fba1fa",
+      "category": "command"
+    },
+    {
+      "name": "explain-load-path",
+      "source": "./plugins/explain-load-path",
+      "description": "Trace how load travels from roof to foundation",
+      "version": "1.0.0-6dbcc2703c1b",
+      "category": "command"
+    },
+    {
+      "name": "explain-panel-schedule",
+      "source": "./plugins/explain-panel-schedule",
+      "description": "Read an electrical panel schedule and say what it means for the architecture",
+      "version": "1.0.0-a36607ca0518",
+      "category": "command"
+    },
+    {
+      "name": "explain-riser-diagram",
+      "source": "./plugins/explain-riser-diagram",
+      "description": "Read an MEP riser diagram and find where it disagrees with the plans",
+      "version": "1.0.0-da805ecadbd1",
+      "category": "command"
+    },
+    {
+      "name": "explain-soils",
+      "source": "./plugins/explain-soils",
+      "description": "Explain a geotechnical recommendation in plain English",
+      "version": "1.0.0-d4bffeb27aec",
+      "category": "command"
+    },
+    {
+      "name": "explain-spec",
+      "source": "./plugins/explain-spec",
+      "description": "Explain a specification section in plain English",
+      "version": "1.0.0-da2501c9c50f",
+      "category": "command"
+    },
+    {
+      "name": "explain-stamp",
+      "source": "./plugins/explain-stamp",
+      "description": "Explain what a submittal stamp commits you to",
+      "version": "1.0.0-2d4008a308ea",
+      "category": "command"
+    },
+    {
+      "name": "explain-u-value",
+      "source": "./plugins/explain-u-value",
+      "description": "Check an assembly's R-value against your climate zone",
+      "version": "1.0.0-d38ce2d73a4e",
+      "category": "command"
+    },
+    {
+      "name": "explain-vapor-retarder",
+      "source": "./plugins/explain-vapor-retarder",
+      "description": "Explain what a vapor retarder does, and what it is being asked to do here",
+      "version": "1.0.0-0fcb219e9b8c",
+      "category": "command"
+    },
+    {
+      "name": "explain-zoning",
+      "source": "./plugins/explain-zoning",
+      "description": "Put a zoning clause in plain English for your site",
+      "version": "1.0.0-207b62ac822c",
+      "category": "command"
+    },
+    {
+      "name": "generate-weekly-report",
+      "source": "./plugins/generate-weekly-report",
+      "description": "Generate a weekly project status report",
+      "version": "1.0.0-5b9a3b3a4f2c",
+      "category": "command"
+    },
+    {
+      "name": "lookup-cost",
+      "source": "./plugins/lookup-cost",
+      "description": "Look up a cost-per-square-foot benchmark, quoted with its source",
+      "version": "1.0.0-f2b484203de7",
+      "category": "command"
+    },
+    {
+      "name": "lookup-csi",
+      "source": "./plugins/lookup-csi",
+      "description": "Find the spec section number for a product or scope",
+      "version": "1.0.0-d69e0789f9a9",
+      "category": "command"
+    },
+    {
+      "name": "lookup-flood-zone",
+      "source": "./plugins/lookup-flood-zone",
+      "description": "Find a parcel's flood zone and base flood elevation, with its source",
+      "version": "1.0.0-c07db247d518",
+      "category": "command"
+    },
+    {
+      "name": "lookup-r-value",
+      "source": "./plugins/lookup-r-value",
+      "description": "Look up an assembly R-value or U-factor",
+      "version": "1.0.0-bed9e891a89f",
+      "category": "command"
+    },
+    {
+      "name": "size-louver",
+      "source": "./plugins/size-louver",
+      "description": "Add up the louver face a mechanical airflow needs, from data you supply",
+      "version": "1.0.0-1fe2a03d3209",
+      "category": "command"
+    },
+    {
+      "name": "size-shaft",
+      "source": "./plugins/size-shaft",
+      "description": "Add up what has to fit in a shaft, plus the room to install and reach it",
+      "version": "1.0.0-30149c54fc9f",
+      "category": "command"
+    },
+    {
+      "name": "test-ada",
+      "source": "./plugins/test-ada",
+      "description": "Math-check one accessibility clearance against the source",
+      "version": "1.0.0-06f4317f3810",
+      "category": "command"
+    },
+    {
+      "name": "test-allowable-area",
+      "source": "./plugins/test-allowable-area",
+      "description": "Check a building's allowable area",
+      "version": "1.0.0-8cade4eea47f",
+      "category": "command"
+    },
+    {
+      "name": "test-egress",
+      "source": "./plugins/test-egress",
+      "description": "Check one egress question - pass, fail, or marginal",
+      "version": "1.0.0-028e74fed5bd",
+      "category": "command"
+    },
+    {
+      "name": "test-energy",
+      "source": "./plugins/test-energy",
+      "description": "Check one assembly against the energy table for your zone",
+      "version": "1.0.0-cb5705a28e4e",
+      "category": "command"
+    },
+    {
+      "name": "test-far",
+      "source": "./plugins/test-far",
+      "description": "Check floor area ratio, coverage, setback, and height",
+      "version": "1.0.0-140069869990",
+      "category": "command"
+    },
+    {
+      "name": "test-fire-rating",
+      "source": "./plugins/test-fire-rating",
+      "description": "Check the required hourly rating for an element",
+      "version": "1.0.0-fa318883ed51",
+      "category": "command"
+    },
+    {
+      "name": "test-glazing",
+      "source": "./plugins/test-glazing",
+      "description": "Check a window against the energy table for your zone",
+      "version": "1.0.0-bb9a8933db66",
+      "category": "command"
+    },
+    {
+      "name": "test-massing",
+      "source": "./plugins/test-massing",
+      "description": "Compare massing options by computed GFA, height, and net area",
+      "version": "1.0.0-92e2fc79ae92",
+      "category": "command"
+    },
+    {
+      "name": "test-occupant-load",
+      "source": "./plugins/test-occupant-load",
+      "description": "Compute occupant load when you already have the table row",
+      "version": "1.0.0-c8b797e7c39e",
+      "category": "command"
+    },
+    {
+      "name": "test-open-space",
+      "source": "./plugins/test-open-space",
+      "description": "Check provided open space against what the district requires",
+      "version": "1.0.0-6880f27d1caa",
+      "category": "command"
+    },
+    {
+      "name": "test-parking",
+      "source": "./plugins/test-parking",
+      "description": "Check required parking count and accessible spaces",
+      "version": "1.0.0-0424607ff934",
+      "category": "command"
+    },
+    {
+      "name": "test-ramp",
+      "source": "./plugins/test-ramp",
+      "description": "Check a ramp's slope, landings, and handrails",
+      "version": "1.0.0-8e21cdec78c1",
+      "category": "command"
+    },
+    {
+      "name": "test-stair",
+      "source": "./plugins/test-stair",
+      "description": "Check stair geometry when you already have the code text",
+      "version": "1.0.0-644a370a14f6",
+      "category": "command"
+    }
+  ]
+}

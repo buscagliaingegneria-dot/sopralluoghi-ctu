@@ -1,0 +1,11 @@
+{
+  "name": "accessibility-specialist",
+  "version": "1.0.0-e7b5429aacf8",
+  "description": "An accessibility read on the journey, not the checklist of compliant items",
+  "homepage": "https://archaiflow.com/templates/agents/accessibility-specialist",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

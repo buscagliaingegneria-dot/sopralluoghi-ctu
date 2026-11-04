@@ -1,0 +1,11 @@
+{
+  "name": "explain-code",
+  "version": "1.0.0-da5ac1de23a8",
+  "description": "Put a code section in plain English",
+  "homepage": "https://archaiflow.com/templates/commands/explain-code",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

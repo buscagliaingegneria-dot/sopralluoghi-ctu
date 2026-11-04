@@ -1,0 +1,11 @@
+{
+  "name": "interior-architect",
+  "version": "1.0.0-8fef1f57d5e3",
+  "description": "An interior architect's read on finishes, partitions, and millwork",
+  "homepage": "https://archaiflow.com/templates/agents/interior-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

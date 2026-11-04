@@ -1,0 +1,11 @@
+{
+  "name": "size-louver",
+  "version": "1.0.0-1fe2a03d3209",
+  "description": "Add up the louver face a mechanical airflow needs, from data you supply",
+  "homepage": "https://archaiflow.com/templates/commands/size-louver",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

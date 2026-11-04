@@ -1,0 +1,11 @@
+{
+  "name": "design-window-perimeter",
+  "version": "1.0.0-3646721fcf2e",
+  "description": "Detail a window head, jamb, and sill in the order they get installed",
+  "homepage": "https://archaiflow.com/templates/skills/design-window-perimeter",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

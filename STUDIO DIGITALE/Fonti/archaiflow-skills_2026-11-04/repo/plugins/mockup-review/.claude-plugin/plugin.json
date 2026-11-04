@@ -1,0 +1,11 @@
+{
+  "name": "mockup-review",
+  "version": "1.0.0-c75ffae0a7ea",
+  "description": "Review a built mockup against what the documents actually asked for",
+  "homepage": "https://archaiflow.com/templates/skills/mockup-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-interior",
+  "version": "1.0.0-4d2d29d4ac1d",
+  "description": "Decide what the interior has to do before detailing any part of it",
+  "homepage": "https://archaiflow.com/templates/skills/design-interior",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

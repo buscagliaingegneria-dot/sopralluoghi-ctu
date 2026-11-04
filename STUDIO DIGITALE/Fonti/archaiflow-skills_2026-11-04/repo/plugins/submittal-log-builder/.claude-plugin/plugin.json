@@ -1,0 +1,11 @@
+{
+  "name": "submittal-log-builder",
+  "version": "1.0.0-d0f6d240ed71",
+  "description": "Build a submittal log from the spec book",
+  "homepage": "https://archaiflow.com/templates/skills/submittal-log-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

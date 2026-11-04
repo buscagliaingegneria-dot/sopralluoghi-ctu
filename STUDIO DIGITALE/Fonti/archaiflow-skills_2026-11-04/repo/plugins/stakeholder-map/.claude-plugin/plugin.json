@@ -1,0 +1,11 @@
+{
+  "name": "stakeholder-map",
+  "version": "1.0.0-44a84b17ae34",
+  "description": "Map who decides what, and who talks to whom",
+  "homepage": "https://archaiflow.com/templates/skills/stakeholder-map",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

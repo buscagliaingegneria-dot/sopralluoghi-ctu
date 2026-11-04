@@ -1,0 +1,11 @@
+{
+  "name": "schedule-extractor",
+  "version": "1.0.0-b6ef881c8062",
+  "description": "Pull door, window, and finish schedules out of a PDF into CSV",
+  "homepage": "https://archaiflow.com/templates/skills/schedule-extractor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

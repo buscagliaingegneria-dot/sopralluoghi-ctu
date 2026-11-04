@@ -1,0 +1,11 @@
+{
+  "name": "industrial-architect",
+  "version": "1.0.0-bf6763a8ad09",
+  "description": "An industrial architect on the clear span, the dock, and the yard",
+  "homepage": "https://archaiflow.com/templates/agents/industrial-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

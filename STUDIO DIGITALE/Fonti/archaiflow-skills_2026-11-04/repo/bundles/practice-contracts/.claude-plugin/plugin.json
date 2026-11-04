@@ -1,0 +1,11 @@
+{
+  "name": "practice-contracts",
+  "version": "1.0.0-612dedf7d4b9",
+  "description": "Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for North American architecture practice.",
+  "homepage": "https://archaiflow.com/templates/practice-contracts",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

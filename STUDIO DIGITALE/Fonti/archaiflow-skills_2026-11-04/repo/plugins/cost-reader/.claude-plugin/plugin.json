@@ -1,0 +1,11 @@
+{
+  "name": "cost-reader",
+  "version": "1.0.0-6799252ac41e",
+  "description": "Read any cost document for what it excludes and what it assumed",
+  "homepage": "https://archaiflow.com/templates/skills/cost-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

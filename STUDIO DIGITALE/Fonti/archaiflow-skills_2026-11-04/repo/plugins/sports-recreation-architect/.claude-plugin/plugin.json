@@ -1,0 +1,11 @@
+{
+  "name": "sports-recreation-architect",
+  "version": "1.0.0-eb059060ee5e",
+  "description": "A recreation architect on the wet side, the dry side, and the noise",
+  "homepage": "https://archaiflow.com/templates/agents/sports-recreation-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

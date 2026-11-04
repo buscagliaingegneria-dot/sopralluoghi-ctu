@@ -1,0 +1,11 @@
+{
+  "name": "equipment-reader",
+  "version": "1.0.0-4d63eaa343df",
+  "description": "Read a cut sheet for what the building has to give the equipment",
+  "homepage": "https://archaiflow.com/templates/skills/equipment-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

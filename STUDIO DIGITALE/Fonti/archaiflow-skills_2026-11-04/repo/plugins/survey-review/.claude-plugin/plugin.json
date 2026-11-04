@@ -1,0 +1,11 @@
+{
+  "name": "survey-review",
+  "version": "1.0.0-7bb315fd3202",
+  "description": "Read a survey for what it does not say, before you design against it",
+  "homepage": "https://archaiflow.com/templates/skills/survey-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

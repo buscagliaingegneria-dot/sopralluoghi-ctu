@@ -1,0 +1,11 @@
+{
+  "name": "drawing-diff",
+  "version": "1.0.0-bb38eed28ac8",
+  "description": "See what changed between two drawing revisions",
+  "homepage": "https://archaiflow.com/templates/skills/drawing-diff",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

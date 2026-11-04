@@ -1,0 +1,11 @@
+{
+  "name": "design-core",
+  "version": "1.0.0-89b1ca44cb11",
+  "description": "Add up the core from your own dimensions and check its share of the plate",
+  "homepage": "https://archaiflow.com/templates/skills/design-core",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

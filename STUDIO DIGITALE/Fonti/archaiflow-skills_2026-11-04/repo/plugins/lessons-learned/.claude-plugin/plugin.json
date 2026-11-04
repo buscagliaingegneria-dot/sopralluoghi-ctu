@@ -1,0 +1,11 @@
+{
+  "name": "lessons-learned",
+  "version": "1.0.0-26577edd1387",
+  "description": "Record what a project taught you, and read it back next time",
+  "homepage": "https://archaiflow.com/templates/skills/lessons-learned",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

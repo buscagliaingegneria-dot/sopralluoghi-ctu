@@ -1,0 +1,11 @@
+{
+  "name": "budget-reconciliation",
+  "version": "1.0.0-24110846efd5",
+  "description": "Close the gap between the programme and the budget, and price what goes",
+  "homepage": "https://archaiflow.com/templates/skills/budget-reconciliation",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

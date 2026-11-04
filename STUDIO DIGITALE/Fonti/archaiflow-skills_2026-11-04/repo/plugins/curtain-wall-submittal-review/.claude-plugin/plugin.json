@@ -1,0 +1,11 @@
+{
+  "name": "curtain-wall-submittal-review",
+  "version": "1.0.0-2dca709a063a",
+  "description": "Read a curtain wall submittal for the things a general review will not catch",
+  "homepage": "https://archaiflow.com/templates/skills/curtain-wall-submittal-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

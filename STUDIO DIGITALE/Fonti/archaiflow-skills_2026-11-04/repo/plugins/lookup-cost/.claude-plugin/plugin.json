@@ -1,0 +1,11 @@
+{
+  "name": "lookup-cost",
+  "version": "1.0.0-f2b484203de7",
+  "description": "Look up a cost-per-square-foot benchmark, quoted with its source",
+  "homepage": "https://archaiflow.com/templates/commands/lookup-cost",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

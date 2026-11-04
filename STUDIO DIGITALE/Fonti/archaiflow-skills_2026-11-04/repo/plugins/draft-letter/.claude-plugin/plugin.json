@@ -1,0 +1,11 @@
+{
+  "name": "draft-letter",
+  "version": "1.0.0-aff64668c2be",
+  "description": "Write a letter to the building department",
+  "homepage": "https://archaiflow.com/templates/commands/draft-letter",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "explain-panel-schedule",
+  "version": "1.0.0-a36607ca0518",
+  "description": "Read an electrical panel schedule and say what it means for the architecture",
+  "homepage": "https://archaiflow.com/templates/commands/explain-panel-schedule",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

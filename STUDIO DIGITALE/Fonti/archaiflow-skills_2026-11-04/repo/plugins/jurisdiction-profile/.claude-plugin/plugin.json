@@ -1,0 +1,11 @@
+{
+  "name": "jurisdiction-profile",
+  "version": "1.0.0-b5f02294cbb3",
+  "description": "Record your code's limits once, with citations, and reuse them",
+  "homepage": "https://archaiflow.com/templates/skills/jurisdiction-profile",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

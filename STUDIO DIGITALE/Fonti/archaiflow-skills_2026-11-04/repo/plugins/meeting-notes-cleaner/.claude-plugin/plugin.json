@@ -1,0 +1,11 @@
+{
+  "name": "meeting-notes-cleaner",
+  "version": "1.0.0-917e692d1d77",
+  "description": "Turn raw meeting notes into structured action items",
+  "homepage": "https://archaiflow.com/templates/skills/meeting-notes-cleaner",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

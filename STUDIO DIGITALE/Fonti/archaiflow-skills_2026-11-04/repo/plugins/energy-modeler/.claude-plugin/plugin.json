@@ -1,0 +1,11 @@
+{
+  "name": "energy-modeler",
+  "version": "1.0.0-e3bcba129f39",
+  "description": "An energy modeler's read on a performance model",
+  "homepage": "https://archaiflow.com/templates/agents/energy-modeler",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

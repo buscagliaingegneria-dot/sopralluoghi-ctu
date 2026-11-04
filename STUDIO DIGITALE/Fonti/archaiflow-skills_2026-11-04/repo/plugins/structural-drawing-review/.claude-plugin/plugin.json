@@ -1,0 +1,11 @@
+{
+  "name": "structural-drawing-review",
+  "version": "1.0.0-8983b4dc123a",
+  "description": "Read a structural set against the architectural, from the architect's side",
+  "homepage": "https://archaiflow.com/templates/skills/structural-drawing-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

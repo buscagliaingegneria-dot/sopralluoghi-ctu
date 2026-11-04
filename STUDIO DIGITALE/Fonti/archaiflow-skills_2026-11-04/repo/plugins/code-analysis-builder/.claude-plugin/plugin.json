@@ -1,0 +1,11 @@
+{
+  "name": "code-analysis-builder",
+  "version": "1.0.0-4a6877037df5",
+  "description": "Assemble the code analysis block for a cover sheet",
+  "homepage": "https://archaiflow.com/templates/skills/code-analysis-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "passive-house-tracker",
+  "version": "1.0.0-2678b700ee88",
+  "description": "Track modeled performance against certification thresholds",
+  "homepage": "https://archaiflow.com/templates/skills/passive-house-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

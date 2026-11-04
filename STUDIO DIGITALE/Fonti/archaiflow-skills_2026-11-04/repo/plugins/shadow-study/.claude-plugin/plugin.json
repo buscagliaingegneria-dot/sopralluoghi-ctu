@@ -1,0 +1,11 @@
+{
+  "name": "shadow-study",
+  "version": "1.0.0-7b1170648d83",
+  "description": "Compute sun angles and shadow reach for a massing, date, and place",
+  "homepage": "https://archaiflow.com/templates/skills/shadow-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "draft-additional-services",
+  "version": "1.0.0-bba3c5060d92",
+  "description": "Draft an additional services request before the work is done, not after",
+  "homepage": "https://archaiflow.com/templates/commands/draft-additional-services",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

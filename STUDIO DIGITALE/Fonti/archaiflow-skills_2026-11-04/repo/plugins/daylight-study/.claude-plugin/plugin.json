@@ -1,0 +1,11 @@
+{
+  "name": "daylight-study",
+  "version": "1.0.0-7328344ac059",
+  "description": "Work out how deep daylight reaches into each room, and which rooms stay dark",
+  "homepage": "https://archaiflow.com/templates/skills/daylight-study",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

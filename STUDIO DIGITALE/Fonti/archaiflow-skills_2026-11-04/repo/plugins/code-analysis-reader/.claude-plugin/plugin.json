@@ -1,0 +1,11 @@
+{
+  "name": "code-analysis-reader",
+  "version": "1.0.0-29d0b3987dd4",
+  "description": "Read somebody else's code analysis for what it assumed and never showed",
+  "homepage": "https://archaiflow.com/templates/skills/code-analysis-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

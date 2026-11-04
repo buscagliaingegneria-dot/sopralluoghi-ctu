@@ -1,0 +1,11 @@
+{
+  "name": "mep-review",
+  "version": "1.0.0-74a548634ab4",
+  "description": "Read an MEP set for space, routing, and coordination conflicts",
+  "homepage": "https://archaiflow.com/templates/skills/mep-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

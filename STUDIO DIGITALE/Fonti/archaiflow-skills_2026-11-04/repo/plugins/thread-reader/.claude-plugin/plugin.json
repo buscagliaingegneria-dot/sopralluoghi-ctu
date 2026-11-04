@@ -1,0 +1,11 @@
+{
+  "name": "thread-reader",
+  "version": "1.0.0-cb18c843e058",
+  "description": "Read an email or message thread for what was actually decided",
+  "homepage": "https://archaiflow.com/templates/skills/thread-reader",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-roof-assembly",
+  "version": "1.0.0-5934b042fb7b",
+  "description": "Build up a roof assembly and place the control layers a roof cannot dry through",
+  "homepage": "https://archaiflow.com/templates/skills/design-roof-assembly",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "senior-architect",
+  "version": "1.0.0-4ae365fdc6d8",
+  "description": "A 25-year architect's gut-check on what will break the project",
+  "homepage": "https://archaiflow.com/templates/agents/senior-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

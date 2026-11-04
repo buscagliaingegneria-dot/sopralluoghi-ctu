@@ -1,0 +1,11 @@
+{
+  "name": "spec-review",
+  "version": "1.0.0-46cf7e5dc1cc",
+  "description": "Audit a spec book for gaps and drawing coordination",
+  "homepage": "https://archaiflow.com/templates/skills/spec-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

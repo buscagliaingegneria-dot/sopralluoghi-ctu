@@ -1,0 +1,11 @@
+{
+  "name": "punch-list",
+  "version": "1.0.0-e67dc92516eb",
+  "description": "Keep a punch list with location, trade, owner, and status per item",
+  "homepage": "https://archaiflow.com/templates/skills/punch-list",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

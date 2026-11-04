@@ -1,0 +1,11 @@
+{
+  "name": "assembly-review",
+  "version": "1.0.0-d675c8c713ab",
+  "description": "Read an assembly somebody else built up and say what it does not do",
+  "homepage": "https://archaiflow.com/templates/skills/assembly-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

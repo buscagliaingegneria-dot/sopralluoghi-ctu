@@ -1,0 +1,11 @@
+{
+  "name": "draft-email",
+  "version": "1.0.0-0017f5f322fe",
+  "description": "Write the project email, and check whether it should be an email at all",
+  "homepage": "https://archaiflow.com/templates/commands/draft-email",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

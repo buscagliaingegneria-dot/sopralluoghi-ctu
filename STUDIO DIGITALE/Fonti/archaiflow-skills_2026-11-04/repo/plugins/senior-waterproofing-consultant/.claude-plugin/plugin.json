@@ -1,0 +1,11 @@
+{
+  "name": "senior-waterproofing-consultant",
+  "version": "1.0.0-da539f3fc1de",
+  "description": "A waterproofing consultant's read on anything that has to stay dry and buried",
+  "homepage": "https://archaiflow.com/templates/agents/senior-waterproofing-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

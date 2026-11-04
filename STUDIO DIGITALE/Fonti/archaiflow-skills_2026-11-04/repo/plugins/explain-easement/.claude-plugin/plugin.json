@@ -1,0 +1,11 @@
+{
+  "name": "explain-easement",
+  "version": "1.0.0-913c08fba1fa",
+  "description": "Explain what an easement on your survey does to what you can build",
+  "homepage": "https://archaiflow.com/templates/commands/explain-easement",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

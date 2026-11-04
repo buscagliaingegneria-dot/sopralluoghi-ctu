@@ -1,0 +1,11 @@
+{
+  "name": "design-acoustic-separation",
+  "version": "1.0.0-5760113a8b8c",
+  "description": "Build a separation for sound, where the flanking path decides the result",
+  "homepage": "https://archaiflow.com/templates/skills/design-acoustic-separation",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

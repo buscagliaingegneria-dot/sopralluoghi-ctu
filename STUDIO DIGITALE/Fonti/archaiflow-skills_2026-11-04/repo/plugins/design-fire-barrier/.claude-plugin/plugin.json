@@ -1,0 +1,11 @@
+{
+  "name": "design-fire-barrier",
+  "version": "1.0.0-b02744dd53f9",
+  "description": "Follow a rated assembly from floor to deck and find where the rating stops",
+  "homepage": "https://archaiflow.com/templates/skills/design-fire-barrier",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

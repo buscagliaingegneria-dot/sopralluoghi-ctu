@@ -1,0 +1,11 @@
+{
+  "name": "security-design-review",
+  "version": "1.0.0-fb2a28c38cdd",
+  "description": "Read a plan for how it will be misused, not for what it is called",
+  "homepage": "https://archaiflow.com/templates/skills/security-design-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

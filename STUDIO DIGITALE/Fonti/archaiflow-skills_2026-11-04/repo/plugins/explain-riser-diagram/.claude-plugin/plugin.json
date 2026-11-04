@@ -1,0 +1,11 @@
+{
+  "name": "explain-riser-diagram",
+  "version": "1.0.0-da805ecadbd1",
+  "description": "Read an MEP riser diagram and find where it disagrees with the plans",
+  "homepage": "https://archaiflow.com/templates/commands/explain-riser-diagram",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

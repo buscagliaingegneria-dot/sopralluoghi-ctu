@@ -1,0 +1,11 @@
+{
+  "name": "entitlement-tracker",
+  "version": "1.0.0-8140fbddb0a8",
+  "description": "Track a discretionary approval from application through hearings to conditions",
+  "homepage": "https://archaiflow.com/templates/skills/entitlement-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

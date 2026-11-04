@@ -1,0 +1,11 @@
+{
+  "name": "test-parking",
+  "version": "1.0.0-0424607ff934",
+  "description": "Check required parking count and accessible spaces",
+  "homepage": "https://archaiflow.com/templates/commands/test-parking",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

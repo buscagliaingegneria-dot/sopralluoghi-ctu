@@ -1,0 +1,11 @@
+{
+  "name": "fee-tracker",
+  "version": "1.0.0-6d8e88711e22",
+  "description": "Track earned fee against billed, invoice by invoice",
+  "homepage": "https://archaiflow.com/templates/skills/fee-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

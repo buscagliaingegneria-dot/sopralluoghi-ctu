@@ -1,0 +1,11 @@
+{
+  "name": "agenda-builder",
+  "version": "1.0.0-e5ed10aae32d",
+  "description": "Build the agenda around what has to be decided, not what to talk about",
+  "homepage": "https://archaiflow.com/templates/skills/agenda-builder",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

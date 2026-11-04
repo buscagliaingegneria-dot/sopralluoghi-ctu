@@ -1,0 +1,11 @@
+{
+  "name": "design-accessible-restroom",
+  "version": "1.0.0-7536ae389587",
+  "description": "Lay out an accessible restroom from clearances that overlap, not a checklist",
+  "homepage": "https://archaiflow.com/templates/skills/design-accessible-restroom",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

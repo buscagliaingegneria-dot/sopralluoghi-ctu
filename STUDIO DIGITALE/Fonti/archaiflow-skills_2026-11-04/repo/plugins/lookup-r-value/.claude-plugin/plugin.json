@@ -1,0 +1,11 @@
+{
+  "name": "lookup-r-value",
+  "version": "1.0.0-bed9e891a89f",
+  "description": "Look up an assembly R-value or U-factor",
+  "homepage": "https://archaiflow.com/templates/commands/lookup-r-value",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

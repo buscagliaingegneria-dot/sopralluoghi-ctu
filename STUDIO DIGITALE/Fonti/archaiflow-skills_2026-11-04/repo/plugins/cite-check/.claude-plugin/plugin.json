@@ -1,0 +1,11 @@
+{
+  "name": "cite-check",
+  "version": "1.0.0-3e446f16330f",
+  "description": "Check whether a citation someone gave you is real and current",
+  "homepage": "https://archaiflow.com/templates/skills/cite-check",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

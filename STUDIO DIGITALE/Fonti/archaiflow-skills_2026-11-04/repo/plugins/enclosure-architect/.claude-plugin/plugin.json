@@ -1,0 +1,11 @@
+{
+  "name": "enclosure-architect",
+  "version": "1.0.0-7808edf43216",
+  "description": "An enclosure architect's read on a wall, roof, or window detail",
+  "homepage": "https://archaiflow.com/templates/agents/enclosure-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

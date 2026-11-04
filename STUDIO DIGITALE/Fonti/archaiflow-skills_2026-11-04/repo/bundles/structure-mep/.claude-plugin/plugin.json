@@ -1,0 +1,11 @@
+{
+  "name": "structure-mep",
+  "version": "1.0.0-c682f44d0f9d",
+  "description": "Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for North American architecture practice.",
+  "homepage": "https://archaiflow.com/templates/structure-mep",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

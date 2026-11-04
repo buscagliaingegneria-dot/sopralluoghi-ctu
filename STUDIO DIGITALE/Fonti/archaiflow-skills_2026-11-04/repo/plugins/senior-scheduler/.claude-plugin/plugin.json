@@ -1,0 +1,11 @@
+{
+  "name": "senior-scheduler",
+  "version": "1.0.0-af1903579215",
+  "description": "A planner's read on what actually controls the date, and who controls it",
+  "homepage": "https://archaiflow.com/templates/agents/senior-scheduler",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

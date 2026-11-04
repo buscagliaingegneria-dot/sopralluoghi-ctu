@@ -1,0 +1,11 @@
+{
+  "name": "senior-elevator-consultant",
+  "version": "1.0.0-5b90b6348682",
+  "description": "A vertical transportation consultant on whether the cars and the shafts work",
+  "homepage": "https://archaiflow.com/templates/agents/senior-elevator-consultant",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

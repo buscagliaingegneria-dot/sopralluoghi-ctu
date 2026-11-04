@@ -1,0 +1,11 @@
+{
+  "name": "permit-expeditor",
+  "version": "1.0.0-0672d3aeb5d1",
+  "description": "Plans the route through the building department, and unsticks a stalled one",
+  "homepage": "https://archaiflow.com/templates/agents/permit-expeditor",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

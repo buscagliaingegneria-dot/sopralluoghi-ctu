@@ -1,0 +1,11 @@
+{
+  "name": "plan-review",
+  "version": "1.0.0-ac635d982a15",
+  "description": "Read a plan for what is on it, what is missing, and what it implies",
+  "homepage": "https://archaiflow.com/templates/skills/plan-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

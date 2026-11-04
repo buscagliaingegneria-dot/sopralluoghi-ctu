@@ -1,0 +1,11 @@
+{
+  "name": "library-architect",
+  "version": "1.0.0-806d537130b0",
+  "description": "A library architect on a building type that changed under everyone",
+  "homepage": "https://archaiflow.com/templates/agents/library-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

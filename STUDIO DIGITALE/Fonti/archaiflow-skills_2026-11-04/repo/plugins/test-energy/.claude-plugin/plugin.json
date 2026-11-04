@@ -1,0 +1,11 @@
+{
+  "name": "test-energy",
+  "version": "1.0.0-cb5705a28e4e",
+  "description": "Check one assembly against the energy table for your zone",
+  "homepage": "https://archaiflow.com/templates/commands/test-energy",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

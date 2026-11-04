@@ -1,0 +1,11 @@
+{
+  "name": "architect-of-record",
+  "version": "1.0.0-b50b937b8786",
+  "description": "A licensed architect's read on what you are about to seal",
+  "homepage": "https://archaiflow.com/templates/agents/architect-of-record",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

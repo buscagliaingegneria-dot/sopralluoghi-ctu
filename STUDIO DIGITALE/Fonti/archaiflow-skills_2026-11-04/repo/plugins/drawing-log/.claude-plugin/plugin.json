@@ -1,0 +1,11 @@
+{
+  "name": "drawing-log",
+  "version": "1.0.0-7089eb0cde97",
+  "description": "Track every sheet's revision and issue history in one log",
+  "homepage": "https://archaiflow.com/templates/skills/drawing-log",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

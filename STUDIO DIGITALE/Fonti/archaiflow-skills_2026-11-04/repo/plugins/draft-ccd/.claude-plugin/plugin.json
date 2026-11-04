@@ -1,0 +1,11 @@
+{
+  "name": "draft-ccd",
+  "version": "1.0.0-8bf0b8b59d28",
+  "description": "Direct a change before cost and time are agreed",
+  "homepage": "https://archaiflow.com/templates/commands/draft-ccd",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

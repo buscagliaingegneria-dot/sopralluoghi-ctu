@@ -1,0 +1,11 @@
+{
+  "name": "hospitality-architect",
+  "version": "1.0.0-3dd9fd14b9e3",
+  "description": "A hotel architect on the guest sequence, key count, and back of house",
+  "homepage": "https://archaiflow.com/templates/agents/hospitality-architect",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

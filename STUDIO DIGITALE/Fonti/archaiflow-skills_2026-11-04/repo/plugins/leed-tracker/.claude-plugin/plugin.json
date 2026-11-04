@@ -1,0 +1,11 @@
+{
+  "name": "leed-tracker",
+  "version": "1.0.0-494e090fd101",
+  "description": "Score a project scorecard and predict its certification level",
+  "homepage": "https://archaiflow.com/templates/skills/leed-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

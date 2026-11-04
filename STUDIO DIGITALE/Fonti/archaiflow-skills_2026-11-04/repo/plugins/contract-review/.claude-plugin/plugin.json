@@ -1,0 +1,11 @@
+{
+  "name": "contract-review",
+  "version": "1.0.0-c39f633a7081",
+  "description": "Read an owner-drafted agreement for what it moves onto you",
+  "homepage": "https://archaiflow.com/templates/skills/contract-review",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}

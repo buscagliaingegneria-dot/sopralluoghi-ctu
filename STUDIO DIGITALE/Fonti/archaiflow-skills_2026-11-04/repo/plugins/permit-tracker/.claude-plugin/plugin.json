@@ -1,0 +1,11 @@
+{
+  "name": "permit-tracker",
+  "version": "1.0.0-f5e3a05fbe56",
+  "description": "Keep one dated record of every permit, review and inspection a project needs",
+  "homepage": "https://archaiflow.com/templates/skills/permit-tracker",
+  "author": {
+    "name": "AI Architecture Lab",
+    "url": "https://archaiflow.com"
+  },
+  "license": "MIT"
+}
