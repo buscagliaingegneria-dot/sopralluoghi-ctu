@@ -1,0 +1,7 @@
+Voici le plan de mon T2 en rez-de-chaussée (plan-T2.dxf, en mètres, exporté de mon logiciel) et l'arrêté du 24 décembre 2015 sur l'accessibilité des logements neufs, avec ses deux arrêtés modificatifs (les PDF du dossier).
+
+Vérifie si quelqu'un en fauteuil roulant peut vivre dans ce logement : largeur des circulations et des portes, espaces de demi-tour de 1,50 m, passages autour du lit, cuisine, salle d'eau, WC. Mesure sur la géométrie du DXF, pas à l'œil.
+
+Rends-moi :
+1. le plan annoté en PNG (plan-pmr.png), grand et lisible : en rouge tout ce qui bloque un fauteuil, en vert ce qui passe, avec les cercles de 1,50 m tracés là où ils tiennent et là où ils ne tiennent pas, et la cote mesurée à côté de chaque point en défaut ;
+2. la liste des écarts (ecarts.md) : pour chacun, ce que tu as mesuré, ce que demande le texte et l'article exact de l'arrêté.

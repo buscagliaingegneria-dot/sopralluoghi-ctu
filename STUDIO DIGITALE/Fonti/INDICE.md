@@ -14,6 +14,7 @@ Nota di sicurezza: negli ZIP dei kit la cartella `.claude/` è stata rinominata 
 | Kit coupe | `kit-coupe_2026-11-04/` | 1 ZIP (22 file estratti) |
 | Kit quartier | `kit-quartier_2026-11-04/` | 1 ZIP (22 file estratti) |
 | Kit maison-a-visiter | `kit-sims-maison-a-visiter_2026-11-04/` | 1 ZIP (3 file estratti) |
+| Kit PMR | `kit-pmr_2026-11-04/` | 1 ZIP + 1 pagina HTML (5 file estratti) |
 
 ## Download falliti
 - `github.com/DavidCho1999/claude-code-architecture-templates`: clone e ZIP negati (403 / richiesta credenziali; `add_repo` dice non accessibile). Probabilmente privato, rinominato o inesistente.
@@ -348,6 +349,15 @@ Queste skill dipendono dai dati aperti francesi (IGN: BD TOPO, BAN). **Non funzi
 ### kit-maison-a-visiter (kit facoltativo)
 Non contiene skill: solo `prompt.txt` (da incollare in una chat), `plan-maison.png` e `exemple/maison.html`. Il prompt chiede una casa 3D visitabile con Three.js da CDN. Da adattare: lingua, altezza interna 2,50 m (in Italia minimo 2,70 m per abitazioni, DM 5/7/1975), tasti ZQSD (layout AZERTY) → WASD/frecce.
 
+
+## Kit PMR (pagina `theinvestroom.github.io/pmr/`, scaricata 2026-11-04)
+Cartella: `kit-pmr_2026-11-04/` (la pagina `index.html` e `plan-pmr.zip`, 5 file estratti in `contenuto/`; 1 ZIP + 1 pagina scaricati). Il link originale conteneva un parametro di tracciamento Facebook (`fbclid`), che ho tolto.
+- **Cos'è:** non è una skill ma un prompt (`prompt.txt`) con un piano d'esempio (`plan-T2.dxf`, `plan-T2.png`) e il risultato di una sola esecuzione (`resultat/plan-pmr.png`, `resultat/ecarts.md`). Verifica l'accessibilità in carrozzina di un alloggio: larghezze di porte e percorsi, cerchi di manovra da 1,50 m, passaggi attorno al letto, cucina, bagno, WC.
+- **Da adattare per l'Italia:** sostituire l'arrêté del 24/12/2015 (norma francese) con la normativa italiana: L. 13/1989, **DM 236/1989** (accessibilità, visitabilità, adattabilità; articoli sulle specifiche funzionali) e **DPR 503/1996**; per edifici pubblici/aperti al pubblico il riferimento resta il DM 236/1989 con le regole di settore. Le quote del prompt (0,90 m, 1,50 m, 1,20×2,20 m ecc.) sono francesi e vanno ricontrollate sulle soglie italiane. Terminologia (T2, ERP) → italiano. Verificare gli articoli esatti sul testo vigente.
+- **Limiti dichiarati dall'autore:** testato una sola volta su un piano fittizio; non è un controllo normativo né un'attestazione; legge solo ciò che c'è nel DXF.
+- **Link non scaricato:** il PDF dell'arrêté su `gers.gouv.fr` (dominio fuori dalla tua lista).
+- **Licenza:** nessuna dichiarata (come gli altri kit): riuso e redistribuzione non autorizzati esplicitamente.
+- **Esecuzione di codice:** il kit non contiene script; il prompt fa scrivere ed eseguire a Claude un programma che legge il DXF.
 
 ## Segnalazioni
 
