@@ -1,0 +1,7 @@
+Voici le plan de ma maison : plan-maison.png. Fais-en une maison en 3D qu'on visite au clavier, comme dans un jeu vidéo. Un seul fichier maison.html, avec Three.js chargé depuis un CDN, que j'ouvre dans mon navigateur sans rien installer.
+- Lis vraiment le plan : cotes, épaisseurs des murs, portes, fenêtres. Les murs doivent suivre le plan à l'échelle, pièce par pièce. Hauteur sous plafond 2,50 m.
+- On démarre devant la porte d'entrée, à hauteur d'yeux (1,60 m), tourné vers l'intérieur.
+- Flèches haut et bas (ou Z et S) pour avancer et reculer, flèches gauche et droite (ou Q et D) pour tourner. On ne traverse pas les murs. Pas besoin de cliquer pour commencer.
+- Touche V : vue du dessus de toute la maison, sans toit.
+- Parquet clair, murs blancs, plafond, lumière du jour qui entre par les fenêtres, ombres douces, un jardin d'herbe autour. Le nom de chaque pièce écrit discrètement au sol.
+Termine en me disant ce que tu as lu sur le plan et ce que tu as supposé.
