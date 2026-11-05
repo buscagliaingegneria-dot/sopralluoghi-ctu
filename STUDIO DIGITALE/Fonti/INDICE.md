@@ -15,6 +15,7 @@ Nota di sicurezza: negli ZIP dei kit la cartella `.claude/` è stata rinominata 
 | Kit quartier | `kit-quartier_2026-11-04/` | 1 ZIP (22 file estratti) |
 | Kit maison-a-visiter | `kit-sims-maison-a-visiter_2026-11-04/` | 1 ZIP (3 file estratti) |
 | Kit PMR | `kit-pmr_2026-11-04/` | 1 ZIP + 1 pagina HTML (5 file estratti) |
+| Articolo archaiflow Revit→Photoshop | `archaiflow-research-revit-photoshop-axo_2026-11-05/` | 1 pagina HTML |
 
 ## Download falliti
 - `github.com/DavidCho1999/claude-code-architecture-templates`: clone e ZIP negati (403 / richiesta credenziali; `add_repo` dice non accessibile). Probabilmente privato, rinominato o inesistente.
@@ -358,6 +359,14 @@ Cartella: `kit-pmr_2026-11-04/` (la pagina `index.html` e `plan-pmr.zip`, 5 file
 - **Link non scaricato:** il PDF dell'arrêté su `gers.gouv.fr` (dominio fuori dalla tua lista).
 - **Licenza:** nessuna dichiarata (come gli altri kit): riuso e redistribuzione non autorizzati esplicitamente.
 - **Esecuzione di codice:** il kit non contiene script; il prompt fa scrivere ed eseguire a Claude un programma che legge il DXF.
+
+## Articolo archaiflow "Photoshop Automation from Revit" (scaricato 2026-11-05)
+Cartella: `archaiflow-research-revit-photoshop-axo_2026-11-05/` (solo la pagina `index.html`, 1 file; senza token né parametri di tracciamento, rimossi dal link). Le immagini della pagina e le pagine collegate (`/setup`, `/kit`, `/templates`) non sono state scaricate.
+- **Cos'è:** non è una skill né un agente, ma una nota (20/10/2026) con due prompt per Claude: uno per installare un server MCP per Revit, uno che da una vista 3D di Revit ricava maschere colorate (categorie, sole/ombre, linee, taglio) e costruisce in Photoshop un'assonometria a livelli (PSD + PNG).
+- **(a) MCP:** sì, l'articolo richiede il **server MCP `revit-mcp-python`** (di terzi, `github.com/revit-mcp/revit-mcp-python`, non scaricato) più l'estensione pyRevit e il connettore Adobe.
+- **(c) Esecuzione di codice:** il primo prompt fa installare `uv`, modificare `claude_desktop_config.json` e avviare `main.py` dell'estensione: **esegue codice sul computer**. Non fatto qui. Da non lanciare senza aver letto il repository e la sua licenza.
+- **(b) Licenza:** nessuna dichiarata sulla pagina; i diritti dei testi restano riservati. Licenza di `revit-mcp-python`: non verificata.
+- **Da adattare per l'Italia:** quote in piedi e pollici (taglio a 4′-6″ ≈ 1,37 m) → metri (es. 1,10–1,50 m); esempio USA ("Pacific Continental Residence", Revit 2027) → modello italiano con famiglie e categorie in italiano; nomi dei locali per destinazione d'uso secondo la tua classificazione; nessuna norma citata.
 
 ## Segnalazioni
 
